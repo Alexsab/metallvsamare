@@ -45,13 +45,14 @@
 	<div class="flex lg:grid lg:grid-cols-3 xl:grid-cols-4 gap-3 lg:gap-1 mt-8 overflow-x-scroll lg:overflow-x-auto">
 		{% for work in data limit:limit %}
 		{% assign catUrl = work.categories | split: ',' | first %}
-		{% assign img = 'img/thumbs/' | append: work.photo_thumb %}
+		{% assign imgDir = 'img/' | append: catUrl | append: '/' | append: work.uid | append: '/' %}
+		{% assign photoThumb = imgDir | append: work.photo_thumb %}
 		<a
 			href="{{site.baseurl}}/{{catUrl}}/{{work.uid}}"
 			class="work-item relative overflow-hidden text-white group w-[60%] md:w-[40%] lg:w-auto flex-shrink-0 {% if forloop.first %}ml-4 sm:ml-0{% endif %}{% if forloop.last %}mr-4 sm:mr-0{% endif %}"
 			itemprop="blogPosts" itemscope itemtype="http://schema.org/BlogPosting"
 		>
-			<img itemprop="image" data-src="{{ img | relative_url }}" alt="{{work.short_title}}" loading="lazy" class="work-img absolute h-full w-full object-cover object-center">
+			<img itemprop="image" data-src="{{ photoThumb | relative_url }}" alt="{{work.short_title}}" loading="lazy" class="work-img absolute h-full w-full object-cover object-center">
 			<span class="work-info absolute w-full h-full left-0 top-0 z-[1] px-5 flex flex-col justify-end lg:translate-y-[70px] transition-all duration-300 lg:group-hover:translate-y-0">
 				<time class="text-xs sm:text-base font-light" itemprop="datePublished" datetime="{{work.date}}"></time>
 				<h3 class="sm:text-xl mb-5 leading-none" itemprop="headline">{{ work.short_title }}</h3>

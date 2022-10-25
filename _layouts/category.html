@@ -9,17 +9,17 @@ layout: default
 	{% endif %}
 {% endfor %}
 {% assign first = curworks | first %}
-{% assign dir = first.categories | split: ',' %}
-{% assign img = 'img/' | append: dir[0] | append: '/' | append: first.uid | append: '/' | append: first.photo %}
+{% assign catUrl = first.categories | split: ',' | first %}
+{% assign photo = 'img/' | append: catUrl | append: '/' | append: first.uid | append: '/' | append: first.photo %}
 {% include
 sections/banner.html
 title=page.h1
 subtitle=page.subtitle
-img=img
+img=photo
 h1=true
 breadcrumbs=true
 %}
-<img itemprop="image" src="{{site.url}}/{{img}}" class="hidden" />
+<img itemprop="image" src="{{site.url}}/{{photo}}" class="hidden" />
 <section class="pt-20 content">
 	<div class="container">
 		<article itemprop="articleBody">{{ content }}</article>

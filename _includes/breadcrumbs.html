@@ -17,7 +17,7 @@
 {% for crumb in crumbs offset: 1 %}
 	{% if forloop.last %}
 	<span>{% include components/icons/chevron-right.html stroke=stroke %}</span>
-	<span class="truncate">{{ page.title }}</span>
+	<span class="truncate">{{ page.short_title }}</span>
 	{% else %}
 	<span>{% include components/icons/chevron-right.html stroke=stroke %}</span>
 	<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">

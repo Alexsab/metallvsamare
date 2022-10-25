@@ -1,848 +1,1209 @@
-- title: Каркас лестницы. Центральный косоур. Фэмили парк
-  short_title: Каркас лестницы
-  uid: centralnyj-kosour-karkas-family-park
+- title: Заказать лестницу на центральном косоуре с динамической подсветкой
+  description: Подробнее про лестницу на центральном косоуре, ступени 80мм дуб, с динамической подсветкой
+  short_title: Лестница на центральном косоуре с динамической подсветкой
+  text: Лестница на центральном косоуре, ступени 80мм дуб, с динамической подсветкой
   categories: lestnicy
+  uid: lestnica-na-centralnom-kosoure-stupeni-80mm-dub-s-dinamicheskoj-podsvetkoj
+  date: 08.06.2022
+  photo_thumb: 2022-06-08 11-28-50.JPG
+  photo: 2022-06-08 11-28-50.JPG
+  photos: 2022-06-08 11-00-29_1654708520459.JPG,2022-06-08 11-00-30.JPG,2022-06-08 11-00-30_1654708510191.JPG,2022-06-08 11-00-30_1654708513147.JPG,2022-06-08 11-28-50_1654708524391.JPG
+
+- title: Заказать лестницу в ЭкоПарке с комбинированным ограждением
+  description: Подробнее про лестницу в ЭкоПарке. Ступени бук, ограждение комбинированное
+  short_title: Лестница в ЭкоПарке
+  text: Лестница ЭкоПарк. Ступени бук. Ограждение комбинированное
+  categories: lestnicy
+  uid: lestnica-ehkopark-stupeni-buk-ograzhdenie-kombinirovannoe
+  date: 16.02.2022
+  photo_thumb: 2022-02-16 07-40-59_1645429124516.JPG
+  photo: 2022-02-16 07-40-59_1645429124516.JPG
+  photos: 2022-02-16 07-40-59.JPG,2022-02-16 07-40-59_1645429118479.JPG
+
+- title: Лестница дачная
+  description: 
+  short_title: Лестница дачная
+  text: 
+  categories: lestnicy
+  uid: lestnica-dachnaya
+  date: 14.02.2022
+  photo_thumb: 2022-02-14 15-58-59_1645429222406.JPG
+  photo: 2022-02-14 15-58-59_1645429222406.JPG
+  photos: 2022-02-14 15-58-59.JPG
+
+- title: Лестница Новокуйбышевск
+  description: 
+  short_title: Лестница Новокуйбышевск
+  text: 
+  categories: lestnicy
+  uid: lestnica-novokujbyshevsk
+  date: 03.02.2022
+  photo_thumb: 2022-02-03 17-34-48_1644485594343.JPG
+  photo: 2022-02-03 17-34-48_1644485594343.JPG
+  photos: 2022-02-03 17-34-48_1644485584933.JPG,2022-02-03 17-34-48_1644485589395.JPG
+
+- title: Лестница ЭкоПарк. Ступени дуб ограждение ковка
+  description: 
+  short_title: Лестница Экопарк Ступени дуб ограждение ковка
+  text: 
+  categories: lestnicy,kovka
+  uid: lestnica-ehkopark-stupeni-dub-ograzhdenie-kovka
+  date: 29.01.2022
+  photo_thumb: 2022-01-29 12-25-40_1643479642798.JPG
+  photo: 2022-01-29 12-25-40_1643479642798.JPG
+  photos: 2022-01-29 12-25-40_1643510841367.JPG
+
+- title: Каркас лестницы. Центральный косоур. Фэмили парк
+  description: 
+  short_title: Каркас лестницы
+  text: 
+  categories: lestnicy
+  uid: centralnyj-kosour-karkas-family-park
   date: 14.12.2021
-  photo_thumb: 2021-12-14-13-45-51.JPG
-  photo: 2021-12-14-13-45-51.JPG
+  photo_thumb: 2021-12-14 13-45-55.JPG
+  photo: 2021-12-14 13-45-55.JPG
   photos: 2021-12-14 13-45-43.JPG,2021-12-14 13-45-45.JPG,2021-12-14 13-45-47.JPG,2021-12-14 13-45-49.JPG,2021-12-14 13-45-53.JPG,2021-12-14 13-45-55.JPG
-  text: Seo текст на странице. Краткое или детальное описание выполненной работы.
+
+- title: Крыльцо п.Лебедь
+  description: 
+  short_title: Крыльцо п.Лебедь
+  text: 
+  categories: lestnicy
+  uid: krylco-p-lebed
+  date: 18.09.2021
+  photo_thumb: 2021-09-18 21-52-44.JPG
+  photo: 2021-09-18 21-52-44.JPG
+  photos: 2021-09-18 21-43-03.JPG,2021-09-18 21-42-56_1631988889109.JPG
+
+- title: Лестница ЭкоПарк. Ограждение металл
+  description: 
+  short_title: Лестница Экопарк ограждение металл
+  text: 
+  categories: lestnicy
+  uid: lestnica-ehkopark-ograzhdenie-metall
+  date: 10.09.2021
+  photo_thumb: 2021-09-10 19-46-24.JPG
+  photo: 2021-09-10 19-46-24.JPG
+  photos: 2021-09-10 19-46-39.JPG,2021-09-10 19-46-24.JPG
+
+- title: п. Прибрежный, дом у Волги
+  description: 
+  short_title: п. Прибрежный, дом у Волги
+  text: 
+  categories: lestnicy
+  uid: p-pribrezhnyj-dom-u-volgi
+  date: 17.08.2021
+  photo_thumb: 2021-08-17 18-16-24.JPG
+  photo: 2021-08-17 18-16-24.JPG
+  photos: 2021-08-17 17-53-45.JPG,2021-08-17 17-54-00.JPG,2021-08-17 17-54-26.JPG,2021-08-17 18-16-27.JPG
+
+- title: Новокуйбышевск, центральный косоур, ступени бук
+  description: 
+  short_title: Новокуйбышевск, центральный косоур, ступени бук
+  text: 
+  categories: lestnicy
+  uid: novokujbyshevsk-centralnyj-kosour-stupeni-buk
+  date: 29.07.2021
+  photo_thumb: 2021-07-29 14-36-53.JPG
+  photo: 2021-07-29 14-36-53.JPG
+  photos: 2021-07-29 14-36-51.JPG,2021-07-29 14-36-50.JPG,2021-07-29 14-37-04.JPG,2021-07-29 14-36-48_1627804142444.JPG
 
 - title: Экопарк, ступени бук, перила комбинированные
+  description: 
   short_title: Ступени бук
-  uid: ekopark-stupeni-buk-perila-kombinirovannye
+  text: 
   categories: lestnicy
+  uid: ekopark-stupeni-buk-perila-kombinirovannye
   date: 30.05.2021
-  photo_thumb: 2021-05-30 10-57-19.JPG
+  photo_thumb: 2021-05-26 15-57-07.JPG
   photo: 2021-05-26 15-57-07.JPG
   photos: 2021-05-26 15-56-13.JPG,2021-05-26 15-56-19.JPG,2021-05-26 15-56-27.JPG,2021-05-26 15-56-36.JPG,2021-05-26 15-56-56.JPG,2021-05-26 15-56-57.JPG,2021-05-26 15-56-59.JPG,2021-05-26 15-57-03.JPG,2021-05-26 15-57-06.JPG,2021-05-30 10-57-19.JPG,2021-05-26 15-57-17.JPG,2021-05-26 15-57-18.JPG,2021-05-26 15-57-21.JPG,2021-05-26 15-57-22.JPG,2021-05-26 15-57-42.JPG,2021-05-26 15-57-43.JPG,2021-05-30 10-57-19_1626101659201.JPG,2021-05-30 10-57-19_1626101664875.JPG
-  text: Seo текст на странице. Краткое или детальное описание выполненной работы.
+
+- title: Каркас центральный косоур 9 просека
+  description: 
+  short_title: Каркас центральный косоур 9 просека
+  text: 
+  categories: lestnicy
+  uid: karkas-centralnyj-kosour-9-proseka
+  date: 29.04.2021
+  photo_thumb: 2021-04-29 13-01-52.JPG
+  photo: 2021-04-29 13-01-52.JPG
+  photos: 2021-04-29 12-59-48.JPG,2021-04-29 13-01-39.JPG
+
+- title: Лестница Экопарк ясень
+  description: 
+  short_title: Лестница Экопарк ясень
+  text: 
+  categories: lestnicy
+  uid: lestnica-ehkopark-yasen
+  date: 18.04.2021
+  photo_thumb: 2021-04-17 17-16-35.JPG
+  photo: 2021-04-17 17-16-35.JPG
+  photos: 2021-04-17 17-18-25.JPG,2021-04-17 17-18-32.JPG,2021-04-17 17-19-27.JPG,2021-04-18 17-01-21.JPG,2021-04-18 17-03-07.JPG,2021-04-18 17-17-22.JPG,2021-04-18 17-17-58.JPG
+
+- title: Лестница на центральном косоуре п.Лебедь,Кинель
+  description: 
+  short_title: Лестница на центральном косоуре п.Лебедь,Кинель
+  text: 
+  categories: lestnicy
+  uid: lestnica-na-centralnom-kosoure-p-lebed-kinel
+  date: 16.04.2021
+  photo_thumb: 2021-04-16 22-27-34.JPG
+  photo: 2021-04-16 22-27-34.JPG
+  photos: 2021-04-16 22-27-53.JPG,2021-04-16 22-29-51.JPG,2021-04-17 09-52-03_1618648534301.JPG,2021-04-17 09-52-03_1618648540584.JPG
+
+- title: Лестница на ломаном косоуре, ступени ясень
+  description: 
+  short_title: Лестница на ломаном косоуре, ступени ясень
+  text: 
+  categories: lestnicy
+  uid: lestnica-na-lomanom-kosoure-stupeni-yasen
+  date: 13.04.2021
+  photo_thumb: 2021-04-13 22-05-42.JPG
+  photo: 2021-04-13 22-05-42.JPG
+  photos: 2021-04-13 22-05-59.JPG,2021-04-13 22-57-08.JPG,2021-04-13 22-57-10.JPG,2021-04-13 22-57-02.JPG
+
+- title: Дизайнерская лестница ступени дуб, ограждение гнутое стекло
+  description: 
+  short_title: Дизайнерская лестница ступени дуб, ограждение гнутое стекло
+  text: 
+  categories: lestnicy
+  uid: dizajnerskaya-lestnica-stupeni-dub-ograzhdenie-gnutoe-steklo
+  date: 26.03.2021
+  photo_thumb: 2021-03-25 20-43-56.JPG
+  photo: 2021-03-25 20-43-56.JPG
+  photos: 2021-03-25 20-32-51.JPG,2021-03-26 06-20-25.JPG,2021-03-25 18-25-23.JPG
+
+- title: Лестница на ломаном косуре Рубежка
+  description: 
+  short_title: Лестница на ломаном косоуре Рубежка
+  text: 
+  categories: lestnicy
+  uid: lestnica-na-lomanom-kosure-rubezhka
+  date: 11.03.2021
+  photo_thumb: 2021-03-11 17-04-51.JPG
+  photo: 2021-03-11 17-04-51.JPG
+  photos: 2021-03-11 17-54-40.JPG,2021-03-11 17-54-43.JPG,2021-03-11 17-54-44.JPG,2021-03-18 12-22-31_1618403212127.JPG,2021-03-11 17-01-12.JPG
+
+- title: Лестница на центральном косоуре посёлок Юбилейный
+  description: 
+  short_title: Лестница на центральном косоуре посёлок Юбилейный
+  text: 
+  categories: lestnicy
+  uid: lestnica-na-centralnom-kosoure-posyolok-yubilejnyj
+  date: 11.03.2021
+  photo_thumb: 2021-03-11 17-36-23.JPG
+  photo: 2021-03-11 17-36-23.JPG
+  photos: 2021-03-11 17-36-06.JPG,2021-03-11 17-35-58.JPG,2021-03-11 17-36-04.JPG,2021-03-11 17-36-09.JPG
 
 - title: Каркас лестницы Излучина village
+  description: 
   short_title: Каркас лестницы
-  uid: frame-ladder-bend-village
+  text: 
   categories: lestnicy
+  uid: frame-ladder-bend-village
   date: 23.11.2018
-  photo_thumb: 252d9b7ece43af34b6dae664a6e22143.jpg
+  photo_thumb: 6e8df1dc11092d280219ecf72dd5acb0.jpg
   photo: 6e8df1dc11092d280219ecf72dd5acb0.jpg
   photos: 1f44f3bf7e25fab6b0db35d8873846d3.jpg,9c1c4806f2a6a5b8121d36ab4d211d6e.jpg
-  text: Seo текст на странице. Краткое или детальное описание выполненной работы.
 
 - title: Лестница Новый Буян
+  description: 
   short_title: Лестница Новый Буян
-  uid: stairs-novyy-buyan
+  text: 
   categories: lestnicy
+  uid: stairs-novyy-buyan
   date: 26.10.2018
-  photo_thumb: b0309aacfa617746695e5c45ad3d97ed.jpg
+  photo_thumb: 73fa119ccef5af395290d89d1c837a0d.jpg
   photo: 73fa119ccef5af395290d89d1c837a0d.jpg
   photos: 6228f9f6cafdb0d90f74f73660540325.jpg,9f91ee309663a95d2875c0ac59a0ed7a.jpg,1de66fe654b99b005cae0019822ef692.jpg
 
 - title: Лестница 7 просека
+  description: 
   short_title: Лестница
-  uid: ladder-7-a-clearing
+  text: 
   categories: lestnicy
+  uid: ladder-7-a-clearing
   date: 26.10.2018
-  photo_thumb: 436ab9f27fd212f75ce675f8c99323d6.jpg
+  photo_thumb: 5c53c31bbcb911a1d063e87ef29ce69a.jpg
   photo: 5c53c31bbcb911a1d063e87ef29ce69a.jpg
   photos: 486ef77af1e7170d728970c11c0061de.jpg
 
 - title: Храм Серафима Саровского, лестница на хоры. набережная р. Волга
+  description: 
   short_title: Храм Серафима Саровского, лестница на хоры
-  uid: temple-of-st-seraphim-of-sarov-stairs-to-the-choir-embankment-of-the-river-volga
+  text: 
   categories: lestnicy
+  uid: temple-of-st-seraphim-of-sarov-stairs-to-the-choir-embankment-of-the-river-volga
   date: 15.10.2018
-  photo_thumb: d8903e803fcfd0f1974d6dd4ad99e888.jpg
+  photo_thumb: 74aeb61c3ba2a2d328af16a851fd63db.jpg
   photo: 74aeb61c3ba2a2d328af16a851fd63db.jpg
   photos: 66a2d61b514cf0b34f78ff114f05a7d0.jpg,ba7f8b6be57ded440542d82c566ca3ab.jpg
 
 - title: Дизайнерская лестница. бугуруслан
+  description: 
   short_title: Дизайнерская лестница
-  uid: designer-staircase-buguruslan
+  text: 
   categories: lestnicy
+  uid: designer-staircase-buguruslan
   date: 23.07.2018
-  photo_thumb: 19d62fcf646c97346752007cf8347c26.jpg
+  photo_thumb: 14f5c6bfb036c7d2f3fddbc7f8e24587.jpg
   photo: 14f5c6bfb036c7d2f3fddbc7f8e24587.jpg
   photos: 31d9f9cca50cb0db8050972b7f200309.jpg,e7367f6024e3f35bb06a68b9c292333d.jpg
 
 - title: Лестница с площадкой на центральном косоуре. царевщина
+  description: 
   short_title: Лестница с площадкой на центральном косоуре
-  uid: ladder-with-a-platform-at-the-central-stringer-the-volzhsky-village
+  text: 
   categories: lestnicy
+  uid: ladder-with-a-platform-at-the-central-stringer-the-volzhsky-village
   date: 21.07.2018
-  photo_thumb: 985e71ae85c7bf8af19bf5b647c2b1ec.jpg
+  photo_thumb: a3710cfb5e837097427b1f79a49d2bb7.jpg
   photo: a3710cfb5e837097427b1f79a49d2bb7.jpg
   photos: 009d8eea5341fba1b199c56971e6b17f.jpg
 
 - title: Велопарковка для сотрудников банка
+  description: 
   short_title: Велопарковка
-  uid: bicycle-parking-for-the-bank-employees
+  text: 
   categories: nestandartnye-zakazy
+  uid: bicycle-parking-for-the-bank-employees
   date: 20.07.2018
-  photo_thumb: 37912dd782e5cd99f18171803bd84c12.jpg
+  photo_thumb: 1eb0e0d75bfbdfd6df9c7c77d4ff050c.jpg
   photo: 1eb0e0d75bfbdfd6df9c7c77d4ff050c.jpg
   photos: 8ab5bae5da2699a489fbb35ee28ce184.jpg
 
 - title: Забор, ворота и калитка. п. Смышляевка
+  description: 
   short_title: Забор, ворота и калитка
-  uid: fence-gate-and-wicket-p-smyshlyayevka
+  text: 
   categories: kovka,zabory
+  uid: fence-gate-and-wicket-p-smyshlyayevka
   date: 18.07.2018
-  photo_thumb: 368b49995245a29aecc1a156c8afa538.jpg
+  photo_thumb: accc01f9102469fa03c3ec8dd0917101.jpg
   photo: accc01f9102469fa03c3ec8dd0917101.jpg
   photos: c3925dc0ae1a1241c48b3fac217ec1f3.jpg,bb905dc08252824a971c55f9d6e6fa3b.jpg
 
 - title: Уличная лестница с балконом. п. Запанской
+  description: 
   short_title: Уличная лестница с балконом
-  uid: outdoor-staircase-with-a-balcony-p-sepanski
+  text: 
   categories: lestnicy
+  uid: outdoor-staircase-with-a-balcony-p-sepanski
   date: 05.07.2018
-  photo_thumb: 43fb34488cb454940fc434699bde4ddc.jpg
+  photo_thumb: f5c5fda2595dda1ea0cd797f6ce072e0.jpg
   photo: f5c5fda2595dda1ea0cd797f6ce072e0.jpg
   photos: f83367bc1653a436a16e7dd00e5e86d2.jpg
 
 - title: Ограждение балкона. 6 просека
+  description: 
   short_title: Ограждение балкона. 6 просека
-  uid: a-balcony-railing-6-glade
+  text: 
   categories: zabory,nestandartnye-zakazy
+  uid: a-balcony-railing-6-glade
   date: 20.06.2018
-  photo_thumb: 24427f522c39a26fa218dd695ac91f29.jpg
+  photo_thumb: a24cc4b6b607387961af8784796e4c20.jpg
   photo: a24cc4b6b607387961af8784796e4c20.jpg
   photos: 47c4328be993a3223b7531bb644eed4d.jpg,48d428f8a71ea53128489865d6092703.jpg
 
 - title: Лестница п. Мясокомбинат
+  description: 
   short_title: Лестница
-  uid: ladder-p-meat
+  text: 
   categories: lestnicy
+  uid: ladder-p-meat
   date: 15.06.2018
-  photo_thumb: 57d69bc952de45dd607c496d3e8eee8d.jpg
+  photo_thumb: 807ce2f8844cb7ae2c5dd6cdda733355.jpg
   photo: 807ce2f8844cb7ae2c5dd6cdda733355.jpg
   photos: dc23b766ac94647bc9ce033b85dd4105.jpg
 
 - title: Лестница light вариант. 6 просека
+  description: 
   short_title: Лестница light вариант
-  uid: staircase-light-option-6-glade
+  text: 
   categories: lestnicy
+  uid: staircase-light-option-6-glade
   date: 09.06.2018
-  photo_thumb: 927853cddc5be5506afa6068775857e4.jpg
+  photo_thumb: 06855d35dd9057b89f6381cb1cf0f9ba.jpg
   photo: 06855d35dd9057b89f6381cb1cf0f9ba.jpg
   photos: 8eb14abfaf12777761f4cffb1c4e7cbd.jpg,17aa0deb9ddf2fffd404ec2595bb5c15.jpg
 
 - title: Навес 170 кв.м п.Запанской
+  description: 
   short_title: Навес 170 кв.м
-  uid: a-shed-of-170-sqm-p-sepanski
+  text: 
   categories: navesy
+  uid: a-shed-of-170-sqm-p-sepanski
   date: 08.06.2018
-  photo_thumb: 0058f4266efc3e679417feb8ac3cd1d5.jpg
+  photo_thumb: 5b4edc5c7196a2ffb9900ebd513c0cee.jpg
   photo: 5b4edc5c7196a2ffb9900ebd513c0cee.jpg
   photos: 399899c5b4d814d0cc700c8fd6f7c560.jpg,e1ea8809c69dd9a35c3af4f9802da5c4.jpg
 
 - title: Лестница на центральном косоуре с отделкой акрилом. п.Гранный
+  description: 
   short_title: Лестница на центральном косоуре с отделкой акрилом
-  uid: staircase-central-stringer-trim-acrylic-p-facet
+  text: 
   categories: lestnicy
+  uid: staircase-central-stringer-trim-acrylic-p-facet
   date: 31.05.2018
-  photo_thumb: 5aea0bb53ca0d4d4538004ca39f72410.jpg
+  photo_thumb: e2fcf35d17df2e772e128045ce79e097.jpg
   photo: e2fcf35d17df2e772e128045ce79e097.jpg
   photos: a6cc53e1bc9f253f196a0637f110cd1a.jpg,450ede6b7c1d90fcca2536fdd6d54d0e.jpg,3841587ac9f74eace5ff3e95e94265a9.jpg,c596b1b4c1bde07679fee8380f9f144c.jpg
 
 - title: Навес над крыльцом с Покровка
+  description: 
   short_title: Навес над крыльцом
-  uid: the-canopy-over-the-porch-with-pokrovka
+  text: 
   categories: navesy
+  uid: the-canopy-over-the-porch-with-pokrovka
   date: 29.05.2018
-  photo_thumb: bb5be7a2d41ace1112d62403db81c71f.jpg
+  photo_thumb: 644d5ee33bbcdc227e9d30abbfaeab5d.jpg
   photo: 644d5ee33bbcdc227e9d30abbfaeab5d.jpg
   photos: 35e8df62704eaa92a051b71defc5fa54.jpg,cee938fdf045fecc127c501b0c27beb5.jpg
 
 - title: Лестница с поворотом на 270°, кп Стрижи
+  description: 
   short_title: Лестница с поворотом на 270°
-  uid: staircase-with-a-rotation-of-270-kp-swifts
+  text: 
   categories: lestnicy
+  uid: staircase-with-a-rotation-of-270-kp-swifts
   date: 08.04.2018
-  photo_thumb: 6d1bba0cb032b94e6123916619d2362f.jpg
+  photo_thumb: 6782ca6f167d4abc5e91e998b5dae643.jpg
   photo: 6782ca6f167d4abc5e91e998b5dae643.jpg
   photos: 604107cb059da95007300f8b6047511c.jpg,12501573814b6f6f634ea24d0dd56ffb.jpg
 
 - title: Лестница на центральном косоуре КП Стрижи
+  description: 
   short_title: Лестница на центральном косоуре
-  uid: staircase-central-stringer-kp-swifts
+  text: 
   categories: lestnicy
+  uid: staircase-central-stringer-kp-swifts
   date: 08.04.2018
-  photo_thumb: db49ef1487ea2b4d1ca89e2aedb33b40.jpg
+  photo_thumb: 73ec6b9711e16fdb24601724bc8168d0.jpg
   photo: 73ec6b9711e16fdb24601724bc8168d0.jpg
   photos: 5b2e85340700175c19b0dfa71ad26788.jpg,c4be0e986b0907f5a575710614f6b29e.jpg
 
 - title: Лестница на центральном косоуре с забежными ступенями под ключ, п. Малая Царевщина
+  description: 
   short_title: Лестница на центральном косоуре с забежными ступенями под ключ
-  uid: staircase-central-stringer-zabezhnymi-steps-turnkey-p-small-volzhsky-village
+  text: 
   categories: lestnicy
+  uid: staircase-central-stringer-zabezhnymi-steps-turnkey-p-small-volzhsky-village
   date: 07.04.2018
-  photo_thumb: c4c44fb728d0dbe06b2488b74d3661e6.jpg
+  photo_thumb: ef844254301ccc6e9132c7dd555302f6.jpg
   photo: ef844254301ccc6e9132c7dd555302f6.jpg
   photos: aaa0dd5a1f482b6614c8cfe78992bc12.jpg,569a8d06f661386ef7ea5b3bd5d2186b.jpg
 
 - title: Кованная кровать
+  description: 
   short_title: Кованая кровать
-  uid: wrought-iron-bed
+  text: 
   categories: kovka,nestandartnye-zakazy
+  uid: wrought-iron-bed
   date: 06.04.2018
-  photo_thumb: ca4bad3e3c1b171b8933d1191fecae19.jpg
+  photo_thumb: 86a587064ed729597016ef4e2ba9408e.jpg
   photo: 86a587064ed729597016ef4e2ba9408e.jpg
   photos: fe58ae924f9880630e433f63b3b86a99.jpg,0b57147a15a4a13b57fde77187ebabde.jpg
 
 - title: Навес для катера на реке Татьянка
+  description: 
   short_title: Навес для катера
-  uid: canopy-for-boats-on-the-river-tatyanka
+  text: 
   categories: navesy
+  uid: canopy-for-boats-on-the-river-tatyanka
   date: 28.03.2018
-  photo_thumb: 2d1712a8d07d248ffc24bd79082be7b3.jpg
+  photo_thumb: 182204efff6f1b492c1d69130b41c9e7.jpg
   photo: 182204efff6f1b492c1d69130b41c9e7.jpg
   photos: 92e3fbbfaaf619861fd921ad9c0411da.jpg,e834ad9c4e6409fb704e6a403aa2abc5.jpg
 
 - title: Карета для теплохода «Алексей Толстой»
+  description: 
   short_title: Карета для теплохода «Алексей Толстой»
-  uid: the-carriage-for-the-ship-alexey-tolstoy
+  text: 
   categories: kovka,nestandartnye-zakazy
+  uid: the-carriage-for-the-ship-alexey-tolstoy
   date: 07.03.2018
-  photo_thumb: 6335a9a441d11ba3ded49252cd1fd644.jpg
+  photo_thumb: 69f619bd0f90e91e954e4ab49fc387ce.jpg
   photo: 69f619bd0f90e91e954e4ab49fc387ce.jpg
   photos: 4e728d3438d2197900ffba6bb24e000c.jpg,29e8c31df2d18416dd23a7ca891e0c3c.jpg
 
 - title: Лестница в двухярусной квартире, на центральном косоуре, с поворотом на 90° и  забежными ступенями. Самара, ул Карла Маркса
+  description: 
   short_title: Лестница в двухярусной квартире, на центральном косоуре, с поворотом на 90° и забежными ступенями
-  uid: the-staircase-in-the-two-level-apartment-on-a-central-stringer-with-a-90-degree-turn-and-winder-step
+  text: 
   categories: lestnicy
+  uid: the-staircase-in-the-two-level-apartment-on-a-central-stringer-with-a-90-degree-turn-and-winder-step
   date: 28.02.2018
-  photo_thumb: df1e948817e00c4e530ea8aa073ac2bf.jpg
+  photo_thumb: 32560a9b3426043ed372f92b86b3338a.jpg
   photo: 32560a9b3426043ed372f92b86b3338a.jpg
   photos: 3b085f3f6ab26204d9b56539603ddda2.jpg,a69166de30edad24230314c8cc1a42c4.jpg
 
 - title: Стулья и столики для Тольяттинского театра "Колесо"
+  description: 
   short_title: Стулья и столики
-  uid: chairs-and-tables-for-the-tolyatti-theatre-the-wheel
+  text: 
   categories: kovka,nestandartnye-zakazy
+  uid: chairs-and-tables-for-the-tolyatti-theatre-the-wheel
   date: 26.02.2018
-  photo_thumb: 3067aaff34e10ab481741ee7990da631.jpg
+  photo_thumb: fed151f33838be4004020262e9b1b674.jpg
   photo: fed151f33838be4004020262e9b1b674.jpg
   photos: 3e5f70f57e7e5198798d45ee016a988f.jpg,464f0c19baa91ded059794432368c0b3.jpg
 
 - title: Оборудование для кабинета косметолога
+  description: 
   short_title: Оборудование для кабинета косметолога
-  uid: equipment-for-beautician
+  text: 
   categories: nestandartnye-zakazy
+  uid: equipment-for-beautician
   date: 10.02.2018
-  photo_thumb: 1fecafcd15a59b3f9302624dd909be4b.jpg
+  photo_thumb: 23372b84f4061e78a2ff8c885cdfc4e3.jpg
   photo: 23372b84f4061e78a2ff8c885cdfc4e3.jpg
   photos: f7e11aca4188ec58a85492c435015ec2.jpg
 
 - title: Лестница на ломаном косоуре с поворотом на 90°, с забежными ступенями, 9 просека 10 линия
+  description: 
   short_title: Лестница на ломаном косоуре с поворотом на 90°, с забежными ступенями
-  uid: the-stairs-to-the-broken-stringer-with-a-90-rotation-the-winder-steps-9-line-10-line
+  text: 
   categories: lestnicy
+  uid: the-stairs-to-the-broken-stringer-with-a-90-rotation-the-winder-steps-9-line-10-line
   date: 10.02.2018
-  photo_thumb: e0ea6f4ed3f055af2b352c49b24909b6.jpg
+  photo_thumb: 488d12056f85988fb48099b51d874f52.jpg
   photo: 488d12056f85988fb48099b51d874f52.jpg
   photos: 59dfcbb14c31e6a26785332f3e0516ee.jpg,0a2bf830de6db4dd6b6277b7e4f9c27c.jpg
 
 - title: Дачная лестница с площадкой и поворотом на 180 °, водинскийе дачи
+  description: 
   short_title: Дачная лестница с площадкой и поворотом на 180°
-  uid: country-ladder-with-a-platform-and-rotated-by-180-volinskiy-villas
+  text: 
   categories: lestnicy
+  uid: country-ladder-with-a-platform-and-rotated-by-180-volinskiy-villas
   date: 10.02.2018
-  photo_thumb: 5506f281573c0bff97fb1301378d3561.jpg
+  photo_thumb: 7f740e65ef80d33990d80a7d4a8e90cb.jpg
   photo: 7f740e65ef80d33990d80a7d4a8e90cb.jpg
   photos: d333418e70ce06c90df4d2e6a5b17680.jpg,3b97a555a8fdd43cb64215631d3cd446.jpg
 
 - title: Лестница с поворотом на 180° из швеллера. п. Алексеевка
+  description: 
   short_title: Лестница с поворотом на 180 из швеллера
-  uid: stairs-with-180-turn-of-channel-alekseevka-village
+  text: 
   categories: lestnicy
+  uid: stairs-with-180-turn-of-channel-alekseevka-village
   date: 23.01.2018
-  photo_thumb: aee9c901fb350886abd124c8a8a2c244.jpg
+  photo_thumb: e95ec5d4d56b2fac6f47fa9a5d7432c5.jpg
   photo: e95ec5d4d56b2fac6f47fa9a5d7432c5.jpg
   photos: 1e9206b4985338cabf1bfe66f3435ba9.jpg,49efee13e84bed7be69a3c2e5f0d8ed7.jpg
 
 - title: Навес. пос. Петровский Богатовский район
+  description: 
   short_title: Навес
-  uid: canopy-the-village-petrovsky-district-bogatovskiy
+  text: 
   categories: navesy
+  uid: canopy-the-village-petrovsky-district-bogatovskiy
   date: 06.12.2017
-  photo_thumb: 4927df0a5341a6dfec4a0d03635555e2.jpg
+  photo_thumb: cd62154ca12fe6141bef2b216ada55d4.jpg
   photo: cd62154ca12fe6141bef2b216ada55d4.jpg
   photos: 8b92264fed8b27e86b478a6e6d7fac52.jpg,6ede5b8117a499e0e064e9a94aecce37.jpg
 
 - title: Навес СДТ Изыскатель
+  description: 
   short_title: Навес
-  uid: the-canopy-of-sdt-izyskatel
+  text: 
   categories: navesy
+  uid: the-canopy-of-sdt-izyskatel
   date: 06.12.2017
-  photo_thumb: 1bb9ef36f23ea7b011419d5b6caccbc2.jpg
+  photo_thumb: 3f6c5c0c319e4fe3d7cb3121992931fa.jpg
   photo: 3f6c5c0c319e4fe3d7cb3121992931fa.jpg
   photos: bd06393d13a7c4c41c9f2d053b74b5c5.jpg,fdac5b1bcc00e1865f6e573546c866a7.jpg
 
 - title: Лестница на центральном косоуре. Новый буян
+  description: 
   short_title: Лестница на центральном косоуре
-  uid: staircase-at-the-central-stringer-novyy-buyan
+  text: 
   categories: lestnicy
+  uid: staircase-at-the-central-stringer-novyy-buyan
   date: 06.12.2017
-  photo_thumb: 5fae786cdd173e1b92ca40b5b1a5d84f.jpg
+  photo_thumb: 8ae3573d8525e333f4bcf1ee21a12499.jpg
   photo: 8ae3573d8525e333f4bcf1ee21a12499.jpg
   photos: c9bd3570bbb5a8ddec318e1b7c6dc722.jpg,1f72d11fbd0f45d03fc29ac56c389d1a.jpg
 
 - title: Навес Калинина
+  description: 
   short_title: Навес
-  uid: canopy-kalinina
+  text: 
   categories: navesy
+  uid: canopy-kalinina
   date: 20.11.2017
-  photo_thumb: f748314e259dad8ff3f40e2d8d05e919.jpg
+  photo_thumb: 7541b86c1c9adce334c103c41fff8114.jpg
   photo: 7541b86c1c9adce334c103c41fff8114.jpg
   photos: 052320691d42cef3c37c629ec54372cf.jpg,220e339a2a3c279645483a9374a1f5c8.jpg
 
 - title: Лестница на центральном косоуре Спуск шмидта
+  description: 
   short_title: Лестница на центральном косоуре
-  uid: staircase-central-stringer-descent-schmidt
+  text: 
   categories: lestnicy
+  uid: staircase-central-stringer-descent-schmidt
   date: 06.11.2017
-  photo_thumb: 3767ac80cd06da8588aa6d55172f1861.jpg
+  photo_thumb: cbfe2486c3317ed35240363f1f4b5777.jpg
   photo: cbfe2486c3317ed35240363f1f4b5777.jpg
   photos: a34347dee39367fa086c3a5812f017b9.jpg,f22b445cde65d6be160b819d0d12730e.jpg,93c00ab5cc2392ac3eaeda94564bd0e3.jpg,1ab7b25a6318380ef72c097387ada658.jpg,d9361c9df9195de00abe563fe944319e.jpg
 
 - title: Лестница в салон красоты Улица Врубеля 120
+  description: 
   short_title: Лестница в салон красоты
-  uid: stairway-to-beauty-salon-ulitsa-vrubelya-120
+  text: 
   categories: lestnicy
+  uid: stairway-to-beauty-salon-ulitsa-vrubelya-120
   date: 06.11.2017
-  photo_thumb: 6dacc1231aa1a98e2c24d0275a196de1.jpg
+  photo_thumb: 3a351434adfa0827a85fe5c12eeeb1a2.jpg
   photo: 3a351434adfa0827a85fe5c12eeeb1a2.jpg
   photos: 4a4b3d4dbf49a10f7f867a8a6d6a53e3.jpg,928685d416a5b549066366fdc328da9b.jpg
 
 - title: Крыльцо бюджетное Мехзавод
+  description: 
   short_title: Крыльцо бюджетное
-  uid: porch-budget-mekhzavod
+  text: 
   categories: lestnicy
+  uid: porch-budget-mekhzavod
   date: 27.09.2017
-  photo_thumb: 3863d038c8b60f75b70307d4647aaf70.jpg
+  photo_thumb: d5a30490df9a91f7a693f59464db907c.jpg
   photo: d5a30490df9a91f7a693f59464db907c.jpg
   photos: f41d3ea29656c8f3418bb732c87bef56.jpg,0d6e4d303c725b94bce3e42e842c50ab.jpg
 
 - title: Лестница с площадкой и поворотом на 90 градусов. Красный Яр, КП Удача
+  description: 
   short_title: Лестница с площадкой и поворотом на 90 градусов
-  uid: ladder-with-a-platform-and-turn-90-degrees-krasnyy-yar-kp-luck
+  text: 
   categories: lestnicy
+  uid: ladder-with-a-platform-and-turn-90-degrees-krasnyy-yar-kp-luck
   date: 10.09.2017
-  photo_thumb: bf851399119f5fcd1f8d5dd7f1251d99.jpg
+  photo_thumb: 833078e60d24a7750981a2ba594b4038.jpg
   photo: 833078e60d24a7750981a2ba594b4038.jpg
   photos: daea7d2ed8277564f3dda871b7e391b2.jpg,148fe5e93020cdbb510e7e251813ca1e.jpg
 
 - title: Входная группа с элементами ковки Березовая грива
+  description: 
   short_title: Входная группа с элементами ковки
-  uid: entrance-lobby-with-elements-of-forging-berezovaya-griva
+  text: 
   categories: kovka,nestandartnye-zakazy
+  uid: entrance-lobby-with-elements-of-forging-berezovaya-griva
   date: 31.08.2017
-  photo_thumb: 54d9b325f24dbbadaa97e1738a2bf4c8.jpg
+  photo_thumb: 4b268a128c9cff2801513943cc1654f0.jpg
   photo: 4b268a128c9cff2801513943cc1654f0.jpg
   photos: fcc4ee7af030ef87216954613beed35d.jpg
 
 - title: Каркас беседки Мехзавод
+  description: 
   short_title: Каркас беседки Мехзавод
-  uid: the-frame-of-the-gazebo-mekhzavod
+  text: 
   categories: navesy
+  uid: the-frame-of-the-gazebo-mekhzavod
   date: 17.08.2017
-  photo_thumb: 72b552857093039e13a36e2b3d1e0fb3.jpg
+  photo_thumb: 6ff26e797ea3e33ae956b6d8f800f8db.jpg
   photo: 6ff26e797ea3e33ae956b6d8f800f8db.jpg
   photos: a2f07747e8b0a4a6b4831e4d0de93d25.jpg,a362388fefd32a0c5cb4432e779e04e4.jpg
 
 - title: Навес 102 квадратных метра новый буян
+  description: 
   short_title: Навес 102 м²
-  uid: the-canopy-102-square-meter-of-novyy-buyan
+  text: 
   categories: navesy
+  uid: the-canopy-102-square-meter-of-novyy-buyan
   date: 06.08.2017
-  photo_thumb: c34ed496465c3104186303f780011f8f.jpg
+  photo_thumb: 2290f62aef370b40766da94f497e8e3c.jpg
   photo: 2290f62aef370b40766da94f497e8e3c.jpg
   photos: 1371aa7c16a026a1d0beabd1c53eea0e.jpg,232591e0eef878c202169a68cc9073de.jpg
 
 - title: Барная мебель, стулья, стойки, столы. #Gellert_bar
+  description: 
   short_title: Барная мебель, стулья, стойки, столы
-  uid: bar-furniture-chairs-racks-tables-gellert_bar
+  text: 
   categories: nestandartnye-zakazy
+  uid: bar-furniture-chairs-racks-tables-gellert_bar
   date: 06.08.2017
-  photo_thumb: 25c0745e10abea992beb1544d901289d.jpg
+  photo_thumb: c6106525cbb2ef55c55fdd730a2a8dab.jpg
   photo: c6106525cbb2ef55c55fdd730a2a8dab.jpg
   photos: d0def46d42162aba80877bff68d2ed8a.jpg,fe9e8d054aeb3aec7f2a93270fa2c029.jpg
 
 - title: Козырёк над крыльцом Зубчаниновка, ул. Самолетная
+  description: 
   short_title: Козырёк над крыльцом
-  uid: the-visor-above-the-porch-stromilova
+  text: 
   categories: navesy
+  uid: the-visor-above-the-porch-stromilova
   date: 21.07.2017
-  photo_thumb: 781b18c241b6d4c3905cdc966902e19e.jpg
+  photo_thumb: 8e45973ae82813d9e5f8e12b67038b5b.jpg
   photo: 8e45973ae82813d9e5f8e12b67038b5b.jpg
   photos: a0f056bd343ad2fb96d41434135ac32d.jpg,2386be2b088c94fac15a5a65387308bf.jpg
 
 - title: Крыльцо, ручная ковка, ступени из лиственницы. Стромилово
+  description: 
   short_title: Крыльцо, ручная ковка, ступени из лиственницы
-  uid: porch-hand-wrought-stairs-made-of-larch-stromilova
+  text: 
   categories: lestnicy
+  uid: porch-hand-wrought-stairs-made-of-larch-stromilova
   date: 28.06.2017
-  photo_thumb: 2422a789f0febe02d9c6a448aa0593d9.jpg
+  photo_thumb: 5e90f8290cf13f5030f1773f9f9be76c.jpg
   photo: 5e90f8290cf13f5030f1773f9f9be76c.jpg
   photos: c22facd985d5904fd5425f31a5a9397b.jpg,9edc8a66c64308a7b4af4a883b2da607.jpg,5306c27f3e8be965f4051a94e28647dd.jpg,fa2ecc8b9c3cf2e489898f9ff12aa058.jpg,3d9edfa7f5215f4b1025eb444418ed64.jpg
 
 - title: Лестница с площадкой и поворотом на 180 градусов. Самара, ул. Лейтенанта Шмидта
+  description: 
   short_title: Лестница с площадкой и поворотом на 180 градусов
-  uid: ladder-with-a-platform-and-rotated-by-180-degrees-samara-street-of-lieutenant-schmidt
+  text: 
   categories: lestnicy
+  uid: ladder-with-a-platform-and-rotated-by-180-degrees-samara-street-of-lieutenant-schmidt
   date: 24.06.2017
-  photo_thumb: 4700bc72f3db74441ae7d6da4bcc01ce.jpg
+  photo_thumb: 206cbfbeba469c906230974f37d1366f.jpg
   photo: 206cbfbeba469c906230974f37d1366f.jpg
   photos: 69ded4255eca31ee9f6e7077e879e5eb.jpg,de94e002959cf341ebbb12b4ac452fe2.jpg,fc0c2b251bfe067ef3573412762e13ef.jpg,a5571ac2e9f3ab5b116f75d630cf95e8.jpg
 
 - title: Вешалка в косметологический кабинет
+  description: 
   short_title: Вешалка в косметологический кабинет
-  uid: hanger-beauty-parlor
+  text: 
   categories: nestandartnye-zakazy
+  uid: hanger-beauty-parlor
   date: 22.06.2017
-  photo_thumb: d012121ac23db8bdf768becacd8506cc.jpg
+  photo_thumb: ac9599b37cdcfc7ea695e37385f99937.jpg
   photo: ac9599b37cdcfc7ea695e37385f99937.jpg
   photos: 55093571bacf17f0580aadaf126b2b78.jpg,fffe65e82b12d42bc1a283035990d8b0.jpg
 
 - title: Дачный домик-бытовка, Стромилово
+  description: 
   short_title: Дачный домик-бытовка
-  uid: country-house-the-shed-stromilova
+  text: 
   categories: nestandartnye-zakazy
+  uid: country-house-the-shed-stromilova
   date: 10.06.2017
-  photo_thumb: 84571f361b5fd13c7036383bff03fc2c.jpg
+  photo_thumb: c2b1bc365709a6ec0ae7071c7b0c7824.jpg
   photo: c2b1bc365709a6ec0ae7071c7b0c7824.jpg
   photos: d2b3d864c31e5d7cb31c65b0bf30434f.jpg,a188c5b612de6dae1347d72b1348a2cf.jpg,2d1b93c8c1ea0c755145a9cb67407917.jpg,40fa263e75a1e17416d64149ac012b5a.jpg
 
 - title: Антивандальные устройства для уличных холодильников на набережной. Самара
+  description: 
   short_title: Антивандальные устройства для уличных холодильников
-  uid: vandal-proof-devices-for-outdoor-refrigerators-on-the-waterfront-samara
+  text: 
   categories: nestandartnye-zakazy
+  uid: vandal-proof-devices-for-outdoor-refrigerators-on-the-waterfront-samara
   date: 31.05.2017
-  photo_thumb: 6177ae0fb2cc38d098400e34a9ec8154.jpg
+  photo_thumb: 6b6b3d49d1c3d833d112091ce9b9a5d3.jpg
   photo: 6b6b3d49d1c3d833d112091ce9b9a5d3.jpg
   photos: 612024f73401a8a5c14f5e2429e2a4a1.jpg
 
 - title: Ограждение террассы, Лестница на террасу. Мехзавод, Березовая аллея
-  short_title: Ограждение террассы, Лестница на террассу
-  uid: fencing-terraces-stairs-to-the-terrace-mekhzavod-berezovaya-alley
+  description: 
+  short_title: Ограждение террасы, Лестница на террасу
+  text: 
   categories: nestandartnye-zakazy
+  uid: fencing-terraces-stairs-to-the-terrace-mekhzavod-berezovaya-alley
   date: 08.05.2017
-  photo_thumb: fc7ac4e080570f5e1f4748b072068a7d.jpg
+  photo_thumb: ff9806c68a58e0b038ac4a50af57acc6.jpg
   photo: ff9806c68a58e0b038ac4a50af57acc6.jpg
   photos: f8e1b75f5e7236f1ecb09c728138c2d2.jpg,12db0c786dad23db85f80ac516bba233.jpg,b54ac17f9404fc00d40e379bd1946643.jpg
 
 - title: Лестница с забежными ступенями и поворотом на 180 градусов. Излучина - Village
+  description: 
   short_title: Лестница с забежными ступенями и поворотом на 180 градусов
-  uid: staircase-with-winder-steps-and-turn-180-degrees-bend---village
+  text: 
   categories: lestnicy
+  uid: staircase-with-winder-steps-and-turn-180-degrees-bend---village
   date: 21.04.2017
-  photo_thumb: 850427ec4b03a11211934851d71f0c2d.jpg
+  photo_thumb: 7fef11c05f70b57a36665992cbe58ead.jpg
   photo: 7fef11c05f70b57a36665992cbe58ead.jpg
   photos: f0a4635c7f656e487c9b647b39481014.jpg,79359f1023b4f2ed1a8dac1efad2b006.jpg
 
 - title: Кашпо. Самара, Хачапурная номер 1
+  description: 
   short_title: Кашпо
-  uid: pots-samara-khachapurnaya-number-1
+  text: 
   categories: nestandartnye-zakazy
+  uid: pots-samara-khachapurnaya-number-1
   date: 05.04.2017
-  photo_thumb: b944171c760a71fe5b1d2eb643b9b6ad.jpg
+  photo_thumb: d51fedd8f0dfea5dcbd10b21f9d013eb.jpg
   photo: d51fedd8f0dfea5dcbd10b21f9d013eb.jpg
   photos: d05b3f5f1c031c2b6ff671c3a71bdbd9.jpg,10f3b77885988118ab9339350cc651d5.jpg
 
 - title: Навес 63 кв.м. Сухая Самарка. Переделка и усиление.
+  description: 
   short_title: Навес 63 кв.м
-  uid: the-canopy-63-sq-m-dry-samarka-alteration-and-strengthening
+  text: 
   categories: navesy
+  uid: the-canopy-63-sq-m-dry-samarka-alteration-and-strengthening
   date: 22.03.2017
-  photo_thumb: ec331a541ceb2699843f1278b745ea1c.JPG
+  photo_thumb: 08b5e980a0721cc3de74e8a1ba01dd81.JPG
   photo: 08b5e980a0721cc3de74e8a1ba01dd81.JPG
   photos: 3da788d652847fba0c3dfaf6885b5b37.jpg,d010d1a02080e21de32d047612994fbe.jpg,956b2387965de94a3dd761cc1eac4b11.jpg,d7e01876bea5c4897960e7287292f8fd.jpg
 
 - title: Стеллаж декоративный
-  short_title: Стелаж декоративный
-  uid: shelf-decorative
+  description: 
+  short_title: Стеллаж декоративный
+  text: 
   categories: kovka
+  uid: shelf-decorative
   date: 12.02.2017
-  photo_thumb: b98a39740cffcaca94bb1b2e080bd5a9.jpg
+  photo_thumb: 29057593f8af863e2d0967085cb7af80.jpg
   photo: 29057593f8af863e2d0967085cb7af80.jpg
   photos: 4a37fb944f48e76d96345136fca3b936.jpg
 
 - title: Бытовой шкаф в подъезде на лестничной площадке. Самара, ул. Мечникова
+  description: 
   short_title: Бытовой шкаф в подъезде на лестничной площадке
-  uid: household-wardrobe-in-the-stairwell-on-the-landing-samara-ul-mechnikova
+  text: 
   categories: nestandartnye-zakazy
+  uid: household-wardrobe-in-the-stairwell-on-the-landing-samara-ul-mechnikova
   date: 09.02.2017
-  photo_thumb: 2cac239c4e0b91829c6ee8452219b0b4.jpg
+  photo_thumb: 74a9b2e29c5ede0990e5d8528079f8e8.jpg
   photo: 74a9b2e29c5ede0990e5d8528079f8e8.jpg
   photos: 39d02161116f99130b8e42cede418f1f.jpg
 
 - title: Каркас лестницы с забежными ступенями и поворотом на 180 град. 2 этажа п. Красный Яр
+  description: 
   short_title: Каркас лестницы с забежными ступенями и поворотом на 180 град
-  uid: frame-ladder-with-winder-steps-and-turn-180-degrees-2-floor-p-krasny-yar
+  text: 
   categories: lestnicy
+  uid: frame-ladder-with-winder-steps-and-turn-180-degrees-2-floor-p-krasny-yar
   date: 24.01.2017
-  photo_thumb: ef1db2c8a874628628b7544dcba1a052.jpg
+  photo_thumb: cb6823044d236bbb5fe265c8fad35b65.jpg
   photo: cb6823044d236bbb5fe265c8fad35b65.jpg
   photos: 6cabb6b5f6a9dc040b956e0240b487a7.jpg,49bc014d09d5dd73b3f11dfe18d92c92.jpg,657a0716894b9cd580f4997ae6e4dc1d.jpg
 
 - title: Лестница, отделка деревом,с кованым ограждением. с Рождествено
+  description: 
   short_title: Лестница, отделка деревом, с кованым ограждением
-  uid: stairs-wood-trim-and-wrought-iron-fence-with-rozhdestveno
+  text: 
   categories: lestnicy
+  uid: stairs-wood-trim-and-wrought-iron-fence-with-rozhdestveno
   date: 20.01.2017
-  photo_thumb: bf5e14c5f4f121c616529052e1094518.jpg
+  photo_thumb: 16fdb7316c95dcdd35d2a35a2466e200.jpg
   photo: 16fdb7316c95dcdd35d2a35a2466e200.jpg
   photos: e8ae73d0e46a939cb2697e2f0f69588b.jpg,04aae3fceb7b60529eef2a3a071307a7.jpg,2c1221d6961065866cf3d885c2ea09f8.jpg,18fbe782a30de0c110f9e6e555c3d481.jpg
 
 - title: Лестница с площадкой, с поворотом на 90 град. 9ая просека
+  description: 
   short_title: Лестница с площадкой с поворотом на 90 градусов
-  uid: ladder-with-platform-rotated-90-degrees-9th-proseka
+  text: 
   categories: lestnicy
+  uid: ladder-with-platform-rotated-90-degrees-9th-proseka
   date: 12.01.2017
-  photo_thumb: 13e1404ce2d0bca216bc9449764f89bc.JPG
+  photo_thumb: 7902936df16f6cad77ae17d5558e6ec9.JPG
   photo: 7902936df16f6cad77ae17d5558e6ec9.JPG
   photos: c1296d1309ad3d824c5d4177a9badd48.jpg,b419256853c8f6a830bd0b504e143771.jpg,200dbd8c99f7bafb4fcac10c3f522c85.jpg,ec0b1bb4d5f9a7032bb0fb2f0054cfb8.jpg,f52c0c69ba1ee8830d6644d2df05304f.jpg
 
 - title: Забор зоны хранения вагоноремонтного завода. 330 метров
+  description: 
   short_title: Забор зоны хранения вагоноремонтного завода
-  uid: fence-the-storage-area-wagon-factory-330-meters
+  text: 
   categories: zabory
+  uid: fence-the-storage-area-wagon-factory-330-meters
   date: 25.12.2016
-  photo_thumb: 1fad8266385b734733ae5462316bed0a.jpg
+  photo_thumb: 87e2c306a5d640574823612c6274a99f.jpg
   photo: 87e2c306a5d640574823612c6274a99f.jpg
   photos: 0d92b7dbec38acfcb1ef6f038be9c252.jpg,c5cb36f5cd265396829739204f7086e4.jpg
 
 - title: Металлокаркас лестницы с двумя поворотными площадками и перилами. г Кинель
+  description: 
   short_title: Металлокаркас лестницы с двумя поворотными площадками и перилами
-  uid: a-metal-staircase-with-two-rotating-platforms-and-railings-mr-kinel
+  text: 
   categories: lestnicy
+  uid: a-metal-staircase-with-two-rotating-platforms-and-railings-mr-kinel
   date: 19.12.2016
-  photo_thumb: 395ec5ae1b7d736e652b51093515751d.jpg
+  photo_thumb: b23a86a397bade001fd6bf925f08927f.jpg
   photo: b23a86a397bade001fd6bf925f08927f.jpg
   photos: b8bf6064cc0ca9d5ac86066198326dfe.jpg,e21e715e8644803cf04b440cbb7004e4.jpg
 
 - title: Обойма на 9 патронов
+  description: 
   short_title: Обойма на 9 патронов
-  uid: clip-9-rounds
+  text: 
   categories: kovka
+  uid: clip-9-rounds
   date: 11.12.2016
-  photo_thumb: 66c4cbd38909b38d2ba3a2aab51db304.jpg
+  photo_thumb: ca170ed69105571790fa64daf01759e1.jpg
   photo: ca170ed69105571790fa64daf01759e1.jpg
   photos: fd25ecfad180fc9875b6652a945b6adf.jpg,7ed1c396490ee7c8d7e6b4edd56ceb11.jpg
 
 - title: Каркас лестницы, под комбинированную отделку, четыре этажа, с площадками и кованым ограждением. г. Самара, ул 9 просека
+  description: 
   short_title: Каркас лестницы, под комбинированную отделку, четыре этажа, с площадками и кованым ограждением
-  uid: frame-ladder-under-the-combined-trim-four-stories-with-playgrounds-and-a-wrought-iron-fence-samara-u
+  text: 
   categories: lestnicy,kovka
+  uid: frame-ladder-under-the-combined-trim-four-stories-with-playgrounds-and-a-wrought-iron-fence-samara-u
   date: 19.11.2016
-  photo_thumb: 87bea13fc86e26baa1265daf8ca0db57.jpg
+  photo_thumb: a03a386f752a9cb13e0c32244c00cbb2.jpg
   photo: a03a386f752a9cb13e0c32244c00cbb2.jpg
   photos: e6cd0ff5cb4e019aac1108fc092d4518.jpg,7d1585783948d10789889ca3785381a9.JPG,1b9320a7da9b389cc510a4607da5f386.JPG,1c4a8cc73979d2f9ec89897bee0f6558.JPG,8bb77fc136c7f2844afb19495d7cbd46.JPG
 
 - title: Каркас лестницы с площадкой и поворотом на 180 град., под отделку деревом. г. Кинель
+  description: 
   short_title: Каркас лестницы с площадкой и поворотом на 180 град
-  uid: frame-ladder-with-a-platform-and-rotated-by-180-deg-for-finishing-wood-g-kinel
+  text: 
   categories: lestnicy
+  uid: frame-ladder-with-a-platform-and-rotated-by-180-deg-for-finishing-wood-g-kinel
   date: 25.10.2016
-  photo_thumb: 20cad80ce459fe5c20a3d47b5474918d.jpg
+  photo_thumb: e60a3e838e7e4f6e98b97a7529bea0be.jpg
   photo: e60a3e838e7e4f6e98b97a7529bea0be.jpg
   photos: a4fbe090a4f6cc860133700fd9629dde.jpg,8c6cb69b0eade952b8da30eeb7ab8182.jpg,9a49074e92e6a1c581e2f353e3d7f9b6.jpg
 
 - title: Забор из профлиста. Старая Бинарадка
-  short_title: Забор из проф листа
-  uid: the-fence-from-prof-sheet-staraya-binaradka
+  description: 
+  short_title: Забор из профлиста
+  text: 
   categories: zabory
+  uid: the-fence-from-prof-sheet-staraya-binaradka
   date: 16.09.2016
-  photo_thumb: c2300d01792761a27247a8ed6b09d52a.jpg
+  photo_thumb: c8a8410f89733536a253c781afd17cfe.jpg
   photo: c8a8410f89733536a253c781afd17cfe.jpg
   photos: db40e25211d5e9b7819140ea45ceb499.jpg,902d55c0945591c20eac63bdbf85eb7a.jpg,d4cb1f4e7c237105412066a9edbc5b8b.jpg
 
 - title: Каркас лестницы на центральном косоуре, лазерная резка основы ступеней, с дополнительным ребром жесткости. КП Завидово
+  description: 
   short_title: Каркас лестницы на центральном косоуре
-  uid: frame-ladder-on-the-central-stringer-laser-cutting-basics-steps-with-additional-stiffener-kp-zavidov
+  text: 
   categories: lestnicy
+  uid: frame-ladder-on-the-central-stringer-laser-cutting-basics-steps-with-additional-stiffener-kp-zavidov
   date: 03.09.2016
-  photo_thumb: faae507797070472141a6e7c93b02806.jpg
+  photo_thumb: fb3907dc5837eeef09c3556d2f433c86.jpg
   photo: fb3907dc5837eeef09c3556d2f433c86.jpg
   photos: 048759c5718d455ea8b120604e60c3e6.jpg,83618edaacf245ca586245cf78fdee3a.jpg
 
 - title: Крыльцо, под отделку плиткой, с кованым ограждением. Самара, 9 просека
+  description: 
   short_title: Крыльцо с кованым ограждением
-  uid: the-porch-under-the-finish-tiles-wrought-iron-fence-samara-9th-proseka
+  text: 
   categories: nestandartnye-zakazy
+  uid: the-porch-under-the-finish-tiles-wrought-iron-fence-samara-9th-proseka
   date: 18.08.2016
-  photo_thumb: d291e5ca39ad2ddb8564ac34d46f7c80.jpg
+  photo_thumb: fe04a751a1ad5ac5f222309e610a52f4.jpg
   photo: fe04a751a1ad5ac5f222309e610a52f4.jpg
   photos: 98a934a36efe6870c27a6be9a7a60387.jpg,e50f401dbac5628903b7fda61b485a2a.jpg,71bd481e7a16edeab69155e5fea994e7.jpg
 
 - title: Перила. Самара, 9 просека
+  description: 
   short_title: Перила
-  uid: the-railing-samara-9th-proseka
+  text: 
   categories: kovka
+  uid: the-railing-samara-9th-proseka
   date: 17.08.2016
-  photo_thumb: 0d9037643778e30431911c1298f75149.jpg
+  photo_thumb: 1c254c74674829b952e4a4901eb10425.jpg
   photo: 1c254c74674829b952e4a4901eb10425.jpg
-  photos:
+  photos: 
 
 - title: Забор из профлиста. Самара, 5 просека
-  short_title: Забор из проф листа
-  uid: the-fence-from-prof-sheet-samara-5-glade
+  description: 
+  short_title: Забор из профлиста
+  text: 
   categories: zabory
+  uid: the-fence-from-prof-sheet-samara-5-glade
   date: 17.08.2016
-  photo_thumb: ead6b56ffd65ca5e54bc3c92b735bd28.jpg
+  photo_thumb: e3062bd25f09baa7ca65d255c8213891.jpg
   photo: e3062bd25f09baa7ca65d255c8213891.jpg
-  photos:
+  photos: 
 
 - title: Крыльцо и решетка на балкон. Самара, Красная Глинка
+  description: 
   short_title: Крыльцо и решетка на балкон
-  uid: porch-and-lattice-on-the-balcony-samara-krasnaya-glinka
+  text: 
   categories: kovka,nestandartnye-zakazy
+  uid: porch-and-lattice-on-the-balcony-samara-krasnaya-glinka
   date: 29.07.2016
-  photo_thumb: dcc46fdb7d1177d0158b80ad75cfa21e.jpg
+  photo_thumb: c5571f7172d6d1d191baca0d4baddbdb.jpg
   photo: c5571f7172d6d1d191baca0d4baddbdb.jpg
   photos: e1cb4d466a8f07a47061008e83581c54.jpg,cf69dbe6535688c0f3c0cdd4f6ac2522.jpg,2bd160f11af456094e14037cad407539.jpg,4a393f654b074607a23a412e442e540a.jpg
 
 - title: Забор секционный, заполнение сетка рабица. Самара, спуск Шмидта
+  description: 
   short_title: Забор секционный, заполнение сетка рабица
-  uid: fence-section-filling-in-the-mesh-netting-samara-descent-schmidt
+  text: 
   categories: zabory
+  uid: fence-section-filling-in-the-mesh-netting-samara-descent-schmidt
   date: 26.07.2016
-  photo_thumb: f90c2d759392e9525e0510051ab319c6.jpg
+  photo_thumb: 6cff9d57fc35068c3fa1605e07a0343b.jpg
   photo: 6cff9d57fc35068c3fa1605e07a0343b.jpg
-  photos:
+  photos: 
 
 - title: Стол с коваными розами
+  description: 
   short_title: Стол с коваными розами
-  uid: table-with-wrought-iron-roses
+  text: 
   categories: kovka
+  uid: table-with-wrought-iron-roses
   date: 12.07.2016
-  photo_thumb: ad62fdd697970f8d536aabf1796ff79b.jpg
+  photo_thumb: ea55f96740ce0500e27fc3f8d0e58e16.jpg
   photo: ea55f96740ce0500e27fc3f8d0e58e16.jpg
   photos: fb1c74fbf6728059078ff215705cbe9a.jpg,c6a7ea9c9ceeea0c5005775d5556bd00.jpg
 
 - title: Крыльцо из металла, с отделкой деревом и кованым ограждением. Самара. Сухая Самарка
+  description: 
   short_title: Крыльцо из металла, с отделкой деревом и кованым ограждением
-  uid: the-porch-from-metal-finished-wood-and-wrought-iron-fence-samara-dry-samarka
+  text: 
   categories: kovka
+  uid: the-porch-from-metal-finished-wood-and-wrought-iron-fence-samara-dry-samarka
   date: 12.07.2016
-  photo_thumb: 920e91f7bb8abec3581fbf5d4e7d45c5.jpg
+  photo_thumb: cc52caaf3e49adde225fff2e32da2ac8.jpg
   photo: cc52caaf3e49adde225fff2e32da2ac8.jpg
   photos: 44a10ee2b2f10c095bc35c629bba76b4.jpg,f7d60895909819a3159260957367553e.jpg,cb16f81c6dd760eca01ebc55ccdcf4d9.jpg,5e59830864a8b7e0365b1d9e0132b5cd.jpg
 
 - title: Каркас лестницы, с забежными ступенями. Под отделку деревом. г. Новокуйбышевск
+  description: 
   short_title: Каркас лестницы, с забежными ступенями. Под отделку деревом
-  uid: frame-the-stairs-with-winder-steps-for-finishing-wood-novokuybyshevsk
+  text: 
   categories: lestnicy,kovka
+  uid: frame-the-stairs-with-winder-steps-for-finishing-wood-novokuybyshevsk
   date: 24.06.2016
-  photo_thumb: 952e4a9328eb16662bc160433dc1ceaa.jpg
+  photo_thumb: a41ab2c4a308d8cebd8251063d17e43a.jpg
   photo: a41ab2c4a308d8cebd8251063d17e43a.jpg
   photos: 182c49e0cf661003ada299d14a62c24a.jpg,18fa4fe2a6ee20b057f16369f105cb59.jpg,7107fc2c73776f9ff93bd16fec740eb9.jpg,c7343351256d8bfc3a4d33984a121abc.jpg
 
 - title: Каркас лестницы с забежными ступенями и поворотом на 180 градусов. г. Кинель, пос. Елшняги
+  description: 
   short_title: Каркас лестницы с забежными ступенями и поворотом на 180 градусов
-  uid: frame-ladder-with-winder-steps-and-turn-180-degrees-g-kinel-settlement-asnaghi
+  text: 
   categories: lestnicy
+  uid: frame-ladder-with-winder-steps-and-turn-180-degrees-g-kinel-settlement-asnaghi
   date: 15.06.2016
-  photo_thumb: f7f9adc19c2a4ad92de0b2c4f28a9801.jpg
+  photo_thumb: 50387a4aded3c4dfcf3538aa375780a4.jpg
   photo: 50387a4aded3c4dfcf3538aa375780a4.jpg
   photos: 6d9cd4ef2d0b2d46e25d8bfadf63a0f1.jpg,b79f525d982706fd9c1c65361e342bb0.jpg
 
 - title: Забор из профлиста. Сокские дачи
-  short_title: Забор из проф листа
-  uid: the-fence-from-prof-sheet-sokskoe-villas
+  description: 
+  short_title: Забор из профлиста
+  text: 
   categories: zabory
+  uid: the-fence-from-prof-sheet-sokskoe-villas
   date: 04.06.2016
-  photo_thumb: ae230bb0b1f69f568236cd39d35b0e01.jpg
+  photo_thumb: 30702c8259dbe773da839de2581ad0c7.jpg
   photo: 30702c8259dbe773da839de2581ad0c7.jpg
   photos: a2c29c7eb035851aac12365a11726e30.jpg,ac4793729832c82338f3cf5ba871e2eb.jpg,29fa729c6a845430e0a222b913d29d29.jpg
 
 - title: Навес закрытый, Самара. мехзавод
+  description: 
   short_title: Навес закрытый
-  uid: the-canopy-closed-samara-mekhzavod
+  text: 
   categories: navesy
+  uid: the-canopy-closed-samara-mekhzavod
   date: 23.05.2016
-  photo_thumb: af12a1dfb2a41c827a1bb34e1de853ab.jpg
+  photo_thumb: ac0dbea42599bb20d1e878121df214da.jpg
   photo: ac0dbea42599bb20d1e878121df214da.jpg
   photos: 897d6477f1ce7707db3f1deb15b955c2.jpg,8ca4da26063a85cf0b1b9dcc178e36a8.jpg,a38441973606b71c99306c9f6125f9dd.jpg,fdcbe89de2df1980f49b129c2904bd53.jpg
 
 - title: Каркас входной лестницы, под отделку плиткой. ПГТ Петра-Дубрава
+  description: 
   short_title: Каркас входной лестницы, под отделку плиткой
-  uid: the-frame-of-the-entrance-stairs-under-the-finish-of-the-tiles-the-village-petra-dubrava
+  text: 
   categories: lestnicy
+  uid: the-frame-of-the-entrance-stairs-under-the-finish-of-the-tiles-the-village-petra-dubrava
   date: 27.04.2016
-  photo_thumb: 174570b563ce7242850639a2aace237d.jpg
+  photo_thumb: e532de346f2f2338f7f8ffa238c2f55c.jpg
   photo: e532de346f2f2338f7f8ffa238c2f55c.jpg
   photos: 60a1418dc4f1af5fc777481098bcad74.jpg
 
 - title: Навес двойной. Самара, Мехзавод
+  description: 
   short_title: Навес двойной
-  uid: canopy-double-samara-mekhzavod
+  text: 
   categories: navesy
+  uid: canopy-double-samara-mekhzavod
   date: 26.04.2016
-  photo_thumb: 9c5b9bcc552bab226c15b26e69bd1058.jpg
+  photo_thumb: 8c796d072be07c5e87ce815d4ff4805e.jpg
   photo: 8c796d072be07c5e87ce815d4ff4805e.jpg
   photos: 5bd327b914ef87641590d784f4934bf8.jpg,4fb19d157b5a607be9f2152d0eed670e.jpg
 
 - title: Установка забора. Мехзавод. от 500 рублей - погонный метр
+  description: 
   short_title: Установка забора
-  uid: installation-of-the-fence-mekhzavod-from-500-rub-meter
+  text: 
   categories: zabory
+  uid: installation-of-the-fence-mekhzavod-from-500-rub-meter
   date: 22.04.2016
-  photo_thumb: fb8cdce6db5517622f548a486647b348.jpg
+  photo_thumb: f8c628f4e75d9e90ea56ee04bc278a1c.jpg
   photo: f8c628f4e75d9e90ea56ee04bc278a1c.jpg
   photos: 2adc964b5fd89c3b28c84e0641a62128.jpg
 
 - title: Навес п.Гранный
+  description: 
   short_title: Навес
-  uid: canopy-facet-p-
+  text: 
   categories: navesy
+  uid: canopy-facet-p-
   date: 19.04.2016
-  photo_thumb: 0f4d6dd155b2bdf244818e4480b4834b.jpg
+  photo_thumb: 1b044dbde1e14936341a108df72f38a4.jpg
   photo: 1b044dbde1e14936341a108df72f38a4.jpg
   photos: 39ec4898742290f8b8886f8e4a83e89d.jpg
 
 - title: Навес Красный Яр
+  description: 
   short_title: Навес
-  uid: canopy-krasnyy-yar
+  text: 
   categories: navesy
+  uid: canopy-krasnyy-yar
   date: 12.04.2016
-  photo_thumb: d8eae1b26d30b57bc7e0f04ecef354cd.jpg
+  photo_thumb: c9df55b6c5c6291e91e067290774faee.jpg
   photo: c9df55b6c5c6291e91e067290774faee.jpg
   photos: f36d033d1802a852a10d0cbdbd3d0d6a.jpg,610e082cc9091363565347405319ca43.jpg
 
 - title: Сварной забор, Таун-хаусы. Самара, спуск Шмидта
-  short_title: Сварной забор, Таун-хаус
-  uid: welded-fence-town-houses-samara-descent-schmidt
+  description: 
+  short_title: Сварной забор, Таунхаус
+  text: 
   categories: zabory
+  uid: welded-fence-town-houses-samara-descent-schmidt
   date: 04.04.2016
-  photo_thumb: c22e65454f3422752eb3a5829c2c253a.jpg
+  photo_thumb: f1f53393c3f04069d7af1e26a051908f.jpg
   photo: f1f53393c3f04069d7af1e26a051908f.jpg
   photos: a5228046af35202765869876d30d2389.jpg,2a132a35913eef89d3b0fd3e155f66f4.jpg
 
 - title: Каркас лестницы, под отделку деревом. Гранный
+  description: 
   short_title: Каркас лестницы, под отделку деревом
-  uid: frame-ladder-for-finishing-wood-grany
+  text: 
   categories: lestnicy
+  uid: frame-ladder-for-finishing-wood-grany
   date: 30.03.2016
-  photo_thumb: f6ef702cf267c9e8d1061f87ced9efb2.jpg
+  photo_thumb: 0cca8669cbb470b200d4eb712c72d2d7.jpg
   photo: 0cca8669cbb470b200d4eb712c72d2d7.jpg
   photos: ef2ced82d7f0566d5494d21cc1dccf4f.jpg
 
 - title: Крыльцо с навесом
+  description: 
   short_title: Крыльцо с навесом
-  uid: a-covered-porch
+  text: 
   categories: navesy
+  uid: a-covered-porch
   date: 18.03.2016
-  photo_thumb: 19037c9d6418a0447fe66cb54819bc7a.jpg
+  photo_thumb: cc31bb367bff6707a1b521ab5d694104.jpg
   photo: cc31bb367bff6707a1b521ab5d694104.jpg
   photos: c70ef8cba93ae80870a82c30d2399172.jpg
 
 - title: Каркас прямой лестницы на центральном косоуре. Отрадный
+  description: 
   short_title: Каркас прямой лестницы на центральном косоуре
-  uid: frame-straight-stair-central-stringer-encouraging
+  text: 
   categories: lestnicy
+  uid: frame-straight-stair-central-stringer-encouraging
   date: 21.02.2016
-  photo_thumb: 53280e54e7cb29646b6ab2a07cd0bb81.jpg
+  photo_thumb: 6f90a353bac8f984f766b1976d2a9b66.jpg
   photo: 6f90a353bac8f984f766b1976d2a9b66.jpg
   photos: 827ffc8154e828fcb371f272eefe880d.jpg,ae103b6e56620341e7d1cd54359aed0d.jpg
 
 - title: Металлокаркас лестницы с поворотом на 90 град. под отделку деревом, п. Власть Труда
+  description: 
   short_title: Металлокаркас лестницы с поворотом на 90 град. под отделку деревом
-  uid: the-frame-of-the-ladder-rotated-90-degrees-for-finishing-wood-p-the-power-of-work
+  text: 
   categories: lestnicy
+  uid: the-frame-of-the-ladder-rotated-90-degrees-for-finishing-wood-p-the-power-of-work
   date: 19.02.2016
-  photo_thumb: 288505f381981cb64926ce0478d8ac1f.jpg
+  photo_thumb: d7a9e9cb901805b4167cd6656adc4339.jpg
   photo: d7a9e9cb901805b4167cd6656adc4339.jpg
   photos: e45331ef97b60738c5994b229556b10e.jpg,321167a65e148eb45796cc44336dd826.jpg
 
 - title: Мы работаем даже зимой
+  description: 
   short_title: Мы работаем даже зимой
-  uid: we-work-even-in-the-winter
+  text: 
   categories: zabory
+  uid: we-work-even-in-the-winter
   date: 09.01.2016
-  photo_thumb: cc5e578c6a454453c49f040d9f15296b.jpg
+  photo_thumb: b8b8dcc2fdbe78b07d139b5a7a0be846.jpg
   photo: b8b8dcc2fdbe78b07d139b5a7a0be846.jpg
   photos: 9b5054c7b3762144b1e677c8ea040ea4.jpg,fd20e9fb4ce83b2bee81a45ee0f511d2.jpg
 
 - title: Лестница с забежными ступенями и поворотом на 90 градусов. Черновские дачи
+  description: 
   short_title: Лестница с забежными ступенями и поворотом на 90 градусов
-  uid: staircase-with-winder-steps-and-turn-90-degrees-chernovskaya-villas
+  text: 
   categories: lestnicy
+  uid: staircase-with-winder-steps-and-turn-90-degrees-chernovskaya-villas
   date: 06.12.2015
-  photo_thumb: fce022f17f407c995d4318312a6944b9.jpg
+  photo_thumb: 930e41aa2b4e86eccc8d1a2b3fb3baa5.jpg
   photo: 930e41aa2b4e86eccc8d1a2b3fb3baa5.jpg
   photos: 6177d8d4cca411e001b490a93fcd82e6.jpg,f3dcbe2afb321f7ea6b3c802eae92381.jpg
 
 - title: Лестница, с площадками, с забежными ступенями, 3 этажа. Самара, 9 просека
+  description: 
   short_title: Лестница, с площадками, с забежными ступенями
-  uid: stairs-platforms-winder-treads-3-floors-samara-9th-proseka
+  text: 
   categories: lestnicy
+  uid: stairs-platforms-winder-treads-3-floors-samara-9th-proseka
   date: 04.12.2015
-  photo_thumb: 27c882dbc1df7f4665877b976c539814.jpg
+  photo_thumb: 0b9a479a8235d256f1bfa264bed79b2a.jpg
   photo: 0b9a479a8235d256f1bfa264bed79b2a.jpg
   photos: ccd2a8c05d22b270c69ba0f746e9eb8c.jpg,12a69988d6ff02daade2514c98928c65.jpg
 
 - title: Дубликат Лестница на 3 этажа, 9 просека
+  description: 
   short_title: Лестница на 3 этажа
-  uid: stairs-to-3-floors-9-proseka
+  text: 
   categories: lestnicy
+  uid: stairs-to-3-floors-9-proseka
   date: 30.11.2015
-  photo_thumb: ab883746ed8500c2f313c2ddc6749f3b.jpg
+  photo_thumb: 9b049e8f8acb968ec2454d048a88cdf1.jpg
   photo: 9b049e8f8acb968ec2454d048a88cdf1.jpg
   photos: 4e58f9830b4a350fac9303ebca2381fb.jpg
 
 - title: Площадка под заливку бетоном. Самара, 9 просека
+  description: 
   short_title: Площадка под заливку бетоном
-  uid: ground-for-pouring-concrete-samara-9th-proseka
+  text: 
   categories: nestandartnye-zakazy
+  uid: ground-for-pouring-concrete-samara-9th-proseka
   date: 17.11.2015
-  photo_thumb: 1ebaab99abc1f894f6636ede6c02bfc7.jpg
+  photo_thumb: 3134e7e41d767ba24f3c6d68bcee06dc.jpg
   photo: 3134e7e41d767ba24f3c6d68bcee06dc.jpg
   photos: 0b48058656568ade515877a529813fab.jpg
 
 - title: Козырек. Самара, ул. Самарская
+  description: 
   short_title: Козырек
-  uid: visor-samara-street-samara
+  text: 
   categories: navesy
+  uid: visor-samara-street-samara
   date: 14.11.2015
-  photo_thumb: 683d500cb862cac3b142ac910cdf4ef2.jpg
+  photo_thumb: f30b26a04eb6baa80dbabc9ca1119484.jpg
   photo: f30b26a04eb6baa80dbabc9ca1119484.jpg
   photos: 8fc449b5b25906ed30223dec1b847fda.jpg,077d54c96e2fadebe969f69000a074c2.jpg
 
 - title: Лестница Новосемейкино
+  description: 
   short_title: Лестница
-  uid: ladder-novo-semeykino
+  text: 
   categories: lestnicy
+  uid: ladder-novo-semeykino
   date: 25.10.2015
-  photo_thumb: aa9ce7ee92f91033b3b21b5a4b9af83b.jpg
+  photo_thumb: d2dff373e1698055085253f220f447df.jpg
   photo: d2dff373e1698055085253f220f447df.jpg
   photos: 18c3563bfd4559e0e8d98fe6c788e8e2.jpg
 
 - title: Полностью забежная лестница на три этажа, ступени покрыты листовым металлом, под отделку пробкой. Таун-хаус Самара ул. Охотничья
-  short_title: Полностью забежная лестница на три этажа, ступени закрыты листовым металлом, под отделку пробкой. Таун-хаус
-  uid: fully-winder-staircase-over-three-floors-the-stairs-are-closed-with-sheet-metal-under-the-trim-tube-town-house-samara-street-hunting
+  description: 
+  short_title: Полностью забежная лестница на три этажа, ступени закрыты листовым металлом, под отделку пробкой. Таунхаус
+  text: 
   categories: lestnicy
+  uid: fully-winder-staircase-over-three-floors-the-stairs-are-closed-with-sheet-metal-under-the-trim-tube-town-house-samara-street-hunting
   date: 14.10.2015
-  photo_thumb: 15b4b5eb22f04f018644bfc155613ca3.jpg
+  photo_thumb: 3710213310252f1557ab81c530c3f9f4.jpg
   photo: 3710213310252f1557ab81c530c3f9f4.jpg
   photos: 69524b20528231beb3ccb3963f33e6ef.jpg,eabe5d8c071a6fef77bb62160e7ca666.jpg
 
 - title: Забор из профлиста. Кинельский район, п. Гвардейцы
-  short_title: Забор из проф листа
-  uid: the-fence-from-prof-sheet-kinelsky-district-village-guards
+  description: 
+  short_title: Забор из профлиста
+  text: 
   categories: zabory
+  uid: the-fence-from-prof-sheet-kinelsky-district-village-guards
   date: 10.08.2015
-  photo_thumb: 26198152d2bafd9dc23ca2a74d2687aa.jpg
+  photo_thumb: 1bf8553b25e1e2f56cf964cc51770e6b.jpg
   photo: 1bf8553b25e1e2f56cf964cc51770e6b.jpg
   photos: ab0f686390eeaf76e98de87e8bd7a925.jpg,0a42eb87ca1c81beb76f9fc9f5d90057.jpg
 
 - title: Ворота из профлиста
-  short_title: Ворота из проф.листа
-  uid: the-gate-of-prof-sheet
+  description: 
+  short_title: Ворота из профлиста
+  text: 
   categories: zabory
+  uid: the-gate-of-prof-sheet
   date: 10.08.2015
-  photo_thumb: 214ea1ea5ba9fae13c7cf9401dc7da86.jpg
+  photo_thumb: 721b6844cbffef6f5247b8c60bd9426e.jpg
   photo: 721b6844cbffef6f5247b8c60bd9426e.jpg
-  photos:
+  photos: 
