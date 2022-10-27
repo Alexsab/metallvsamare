@@ -3,6 +3,7 @@ layout: category
 catId: navesy
 index: 2
 title: "Навесы"
+short_title: "Навесы"
 h1: "Навесы, Козырьки"
 ---
 

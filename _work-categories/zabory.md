@@ -3,6 +3,7 @@ layout: category
 catId: zabory
 index: 3
 title: "Заборы"
+short_title: "Заборы"
 h1: "Заборы"
 ---
 

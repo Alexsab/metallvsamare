@@ -3,7 +3,8 @@ layout: category
 catId: kovka
 index: 4
 title: "Ковка"
-subtitle: "Подзаголовок для страницы"
+short_title: "Ковка"
+subtitle: ""
 h1: "Работы с элементами ковки"
 ---
 

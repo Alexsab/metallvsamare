@@ -3,6 +3,7 @@ layout: category
 catId: lestnicy
 index: 1
 title: "Лестницы"
+short_title: "Лестницы"
 subtitle: "Вот уже долгое время мы&nbsp;производим крепкие и&nbsp;надёжные металлокаркасы лестниц"
 h1: "Металлокаркасы лестниц"
 ---
