@@ -78,7 +78,9 @@ document.querySelectorAll("form").forEach(function(form) {
 		btn.innerHTML = 'Отправляем...';
 		btn.setAttribute('disabled', true);
 
-		formData.append("page", window.location.origin + window.location.pathname);
+		formData.append("page_name", document.title);
+		formData.append("page_url", window.location.origin + window.location.pathname);
+
 		window.location.search.slice(1).split("&").forEach(function(pair) {
 			var param = pair.split("=");
 			formData.append(param[0], param[1]);
@@ -93,6 +95,7 @@ document.querySelectorAll("form").forEach(function(form) {
 		for (const pair of formData) {
 			params.append(pair[0], pair[1]);
 		}
+
 		// fetch('https://diywebdev.ru/lead/dev/', {
 		fetch('https://alexsab.ru/lead/metallvsamare/', {
 			method: 'POST',
