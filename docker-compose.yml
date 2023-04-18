@@ -3,9 +3,9 @@ version: "3"
 services:
   jekyll:
     image: jekyll/jekyll:latest
-    container_name: jekyll_bundle
+    container_name: jekyll_${APP_CONTAINER_NAME}
     command: jekyll serve --trace --watch --force_polling
     ports:
-      - 4001:4000
+      - ${APP_CONTAINER_PORT}4:4000
     volumes:
       - .:/srv/jekyll
