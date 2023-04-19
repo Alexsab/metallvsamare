@@ -10,7 +10,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Производство, изготовление и монтаж легких металлоконструкций в Самаре!
 baseurl: ""
 # baseurl: ""
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://xn--80aaagne2bafg9bii.xn--p1ai" # the base hostname & protocol for your site, e.g. http://example.com
 
 # FOR SCHEMA.ORG
 postalCode: "443046"
