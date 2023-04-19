@@ -5,7 +5,7 @@ layout: default
 {% assign catUrl = page.categories | split: ',' | first %}
 {% assign imgDir = 'img/' | append: catUrl | append: '/' | append: page.uid | append: '/' %}
 {% assign photo = imgDir | append: page.photo %}
-{% include sections/banner.html title=page.short_title img=photo h1=true breadcrumbs=true %}
+{% include sections/banner-menu.html title=page.short_title img=photo h1=true breadcrumbs=true %}
 <time itemprop="datePublished" datetime="{{page.date}}"></time>
 <img itemprop="image" src="{{site.url}}/{{photo}}" class="hidden" />
 {% assign photos = page.photos | split: ',' %}

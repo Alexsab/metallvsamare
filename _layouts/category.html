@@ -12,7 +12,7 @@ layout: default
 {% assign catUrl = first.categories | split: ',' | first %}
 {% assign photo = 'img/' | append: catUrl | append: '/' | append: first.uid | append: '/' | append: first.photo %}
 {% include
-sections/banner.html
+sections/banner-menu.html
 title=page.h1
 subtitle=page.subtitle
 img=photo
