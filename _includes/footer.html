@@ -10,6 +10,7 @@
 			</div>
 			<div class="footer-col col-span-6 sm:col-span-3 lg:col-span-2">
 				<h3 class="text-lg uppercase mb-5">Разделы сайта</h3>
+				<noindex>
 				<ul>
 					{% if page.url != '/' %}
 					<li>
@@ -19,13 +20,14 @@
 					{% assign categories = site.work-categories | sort: "index" %}
 					{% for link in categories %}
 					<li>
-						<a class="inline-block leading-tight transition-all duration-200 mb-3 hover:underline {% if page.url == link.url %}underline{% endif %}" href="{{site.baseurl}}{{link.url}}">{{link.title}}</a>
+						<a class="inline-block leading-tight transition-all duration-200 mb-3 hover:underline {% if page.url == link.url %}underline{% endif %}" href="{{site.baseurl}}{{link.url}}">{{link.short_title}}</a>
 					</li>
 					{% endfor %}
 					<li>
 						<a class="inline-block leading-tight transition-all duration-200 hover:underline {% if page.url == link.url %}underline{% endif %}" href="{{site.baseurl}}/policy/">Политика конфиденциальности</a>
 					</li>
 				</ul>
+				</noindex>
 			</div>
 			<div class="footer-col col-span-6 sm:col-span-3 lg:col-span-2">
 				<h3 class="text-lg uppercase mb-5">Контакты</h3>

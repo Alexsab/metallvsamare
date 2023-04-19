@@ -42,6 +42,7 @@
 		<div class="flex justify-end mt-3 md:mt-5">
 			{% include components/header/menu-btn.html name="close" %}
 		</div>
+		<noindex>
 		<ul itemscope itemtype="http://schema.org/SiteNavigationElement" class="mt-[-80px] h-full w-full left-0 text-white flex flex-col justify-center absolute">
 			{% if page.url != '/' %}
 				<li>
@@ -51,10 +52,11 @@
 			{% assign categories = site.work-categories | sort: "index" %}
 			{% for link in categories %}
 				<li>
-					<a itemprop="url" class="block text-center p-5 uppercase text-lg transition-all duration-200 {% if page.url == link.url %}active{% endif %}" href="{{site.baseurl}}{{link.url}}">{{link.title}}</a>
+					<a itemprop="url" class="block text-center p-5 uppercase text-lg transition-all duration-200 {% if page.url == link.url %}active{% endif %}" href="{{site.baseurl}}{{link.url}}">{{link.short_title}}</a>
 				</li>
 			{% endfor %}
 		</ul>
+		</noindex>
 	</div>
 
 </div>

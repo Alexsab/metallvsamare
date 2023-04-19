@@ -9,20 +9,20 @@
 {% endif %}
 {% case url %}
 {% when 'lestnicy' %}
-{% assign title = "Эксперты по металлокаркасам лестниц в Самаре" %}
+{% assign title = "Эксперты по металлокаркасам лестниц в&nbsp;Самаре" %}
 {% assign subtitle = "Мы выполним для Вас каркас лестницы любой сложности в кратчайшие сроки!" %}
 {% when 'navesy' %}
-{% assign title = "Эксперты по металлическим навесам в Самаре" %}
+{% assign title = "Эксперты по металлическим навесам в&nbsp;Самаре" %}
 {% assign subtitle = "Мы разработаем, изготовим и смонтируем Ваш идеальный навес в кратчайшие сроки!" %}
 {% when 'zabory' %}
-{% assign title = "Эксперты по металлическим заборам в Самаре" %}
+{% assign title = "Эксперты по металлическим заборам в&nbsp;Самаре" %}
 {% assign subtitle = "Огородим любую территорию забором от проф.листа до кованого в кратчайшие сроки!" %}
 {% when 'kovka' %}
-{% assign title = "Эксперты по ковке в Самаре" %}
+{% assign title = "Эксперты по ковке в&nbsp;Самаре" %}
 {% assign subtitle = "Мы выполним для Вас любую работу с элементами ковки в кратчайшие сроки!" %}
 {% else %}
-{% assign title = "Эксперты по металлоконструкциям в Самаре" %}
-{% assign subtitle = "Мы выполним для вас работы любой сложности в кратчайшие сроки!" %}
+{% assign title = "Изготовление и монтаж легких металлоконструкций в&nbsp;Самаре" %}
+{% assign subtitle = "Примеры металлоконструкций, выполненных нами в&nbsp;Самаре и&nbsp;области" %}
 {% endcase %}
 {% if size > 0 %}
 <section class="works py-20" itemscope itemtype="http://schema.org/Blog">
@@ -34,7 +34,11 @@
 		{% endif %}
 	{% endif %}
 	{% if subtitle %}
-	<p class="section-subtitle text-center px-4 mt-4 md:text-xl" itemprop="description">{{ subtitle }}</p>
+		{% if h1 %}
+		<h2 class="section-subtitle text-center px-4 mt-4 md:text-2xl" itemprop="description">{{ subtitle }}</h2>
+		{% else %}
+		<p class="section-subtitle text-center px-4 mt-4 md:text-xl" itemprop="description">{{ subtitle }}</p>
+		{% endif %}
 	{% endif %}
 	{% if container %}
 	<div class="container px-0 sm:px-4">

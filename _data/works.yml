@@ -277,7 +277,7 @@
   description: Подробнее про забор, ворота и калитка. п. Смышляевка
   short_title: Забор, ворота и калитка
 
-  categories: kovka,zabory
+  categories: kovka,zabory,vorota,kalitki
   uid: fence-gate-and-wicket-p-smyshlyayevka
   date: 18.07.2018
   photo_thumb: accc01f9102469fa03c3ec8dd0917101.jpg
@@ -629,7 +629,7 @@
   description: Подробнее про козырёк над крыльцом Зубчаниновка, ул. Самолетная
   short_title: Козырёк над крыльцом
 
-  categories: navesy
+  categories: navesy,kozyrki
   uid: the-visor-above-the-porch-stromilova
   date: 21.07.2017
   photo_thumb: 8e45973ae82813d9e5f8e12b67038b5b.jpg
@@ -1157,7 +1157,7 @@
   description: Подробнее про козырек. Самара, ул. Самарская
   short_title: Козырек
 
-  categories: navesy
+  categories: navesy,kozyrki
   uid: visor-samara-street-samara
   date: 14.11.2015
   photo_thumb: f30b26a04eb6baa80dbabc9ca1119484.jpg
@@ -1201,7 +1201,7 @@
   description: Подробнее про ворота из профлиста
   short_title: Ворота из профлиста
 
-  categories: zabory
+  categories: zabory,vorota
   uid: the-gate-of-prof-sheet
   date: 10.08.2015
   photo_thumb: 721b6844cbffef6f5247b8c60bd9426e.jpg
