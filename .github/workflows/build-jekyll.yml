@@ -36,4 +36,4 @@ jobs:
           pre_build_commands: ''     # Installing additional dependencies (Arch Linux)
 
       - name: Run Telegram notification again
-        uses: ./github/workflows/github-telegram.yml
+        uses: ./.github/workflows/github-telegram.yml
