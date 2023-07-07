@@ -78,7 +78,9 @@ jobs:
 
           additional_text="${{ inputs.additional-text || '' }}"
           if [ "$additional_text" != "" ]; then
-            echo "additional_text=\\n$additional_text\\n" >> $GITHUB_OUTPUT
+            echo "add_line=\"\n"" >> $GITHUB_OUTPUT
+            echo "add_line2='\n'" >> $GITHUB_OUTPUT
+            echo "additional_text=$additional_text" >> $GITHUB_OUTPUT
           fi
 
       - name: Send message to Telegram
@@ -90,7 +92,7 @@ jobs:
           format: html
           message: |
             <b>[${{ github.event.repository.name }}:${{ github.ref_name }}]</b> <b><a href="https://github.com/${{ github.repository }}/compare/${{ steps.commits_list.outputs.before }}">${{ steps.commits_list.outputs.lines_count }}</a></b> by <b><a href="https://github.com/${{ github.actor }}">${{ github.actor }}</a></b>
-            \n${{ steps.commits_list.outputs.additional_text }}
+            ${{ steps.commits_list.outputs.add_line }}${{ steps.commits_list.outputs.additional_text }}${{ steps.commits_list.outputs.add_line2 }}
             ${{ steps.commits_list.outputs.full_list }}
 
 
