@@ -78,7 +78,7 @@ jobs:
 
           additional_text="${{ inputs.additional-text || '' }}"
           if [ "$additional_text" != "" ]; then
-            echo -e "additional_text='\n$additional_text\n'" >> $GITHUB_OUTPUT
+            echo -e "additional_text='\n${additional_text}\n'" >> $GITHUB_OUTPUT
           fi
 
       - name: Send message to Telegram
