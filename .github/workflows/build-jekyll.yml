@@ -36,14 +36,7 @@ jobs:
           pre_build_commands: ''     # Installing additional dependencies (Arch Linux)
 
   notify_telegram:
-    needs: build_and_deploy
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Run Telegram notification
-        uses: ./.github/workflows/github-telegram.yml
-        env:
-          TELEGRAM_TO: ${{ secrets.TELEGRAM_TO }}
-          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+    uses: ./.github/workflows/github-telegram.yml
+    secrets:
+      TELEGRAM_TO: ${{ secrets.TELEGRAM_TO }}
+      TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
