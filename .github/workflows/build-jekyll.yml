@@ -38,6 +38,8 @@ jobs:
   notify_telegram:
     needs: build_and_deploy
     uses: ./.github/workflows/github-telegram.yml
+    with:
+      additional-text: 'After build'
     secrets:
       TELEGRAM_TO: ${{ secrets.TELEGRAM_TO }}
       TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}

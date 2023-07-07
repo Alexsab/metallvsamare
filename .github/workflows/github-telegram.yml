@@ -13,6 +13,11 @@ on:
   delete: {}
   issues: {}
   workflow_call:
+    inputs:
+      additional-text:
+        description: 'Additional text passed from the caller workflow'
+        required: false
+        type: string
     secrets:
       TELEGRAM_TO:
         description: 'Telegram ID passed from the caller workflow'
@@ -71,6 +76,10 @@ jobs:
           COMMITS_STRING="${COMMITS_STRING//$'\r'/'%0D'}"
           echo "full_list=$COMMITS_STRING" >> $GITHUB_OUTPUT
 
+          additional_text="${{ inputs.additional-text || '' }}"
+          additional_text="${{ additional_text && '\\n' + additional_text + '\\n' }}"
+          echo "additional_text=$additional_text" >> $GITHUB_OUTPUT
+
       - name: Send message to Telegram
         uses: appleboy/telegram-action@master
         with:
@@ -80,7 +89,7 @@ jobs:
           format: html
           message: |
             <b>[${{ github.event.repository.name }}:${{ github.ref_name }}]</b> <b><a href="https://github.com/${{ github.repository }}/compare/${{ steps.commits_list.outputs.before }}">${{ steps.commits_list.outputs.lines_count }}</a></b> by <b><a href="https://github.com/${{ github.actor }}">${{ github.actor }}</a></b>
-
+            ${{ steps.commits_list.outputs.additional_text }}
             ${{ steps.commits_list.outputs.full_list }}
 
 
