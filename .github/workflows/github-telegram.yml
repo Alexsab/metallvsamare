@@ -1,7 +1,7 @@
 name: telegram message
 
 # Controls when the workflow will run
-on: [push, pull_request, create, delete, issues]
+on: [push, pull_request, create, delete, issues, workflow_call]
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
