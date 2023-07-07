@@ -1,7 +1,25 @@
 name: telegram message
 
 # Controls when the workflow will run
-on: [push, pull_request, create, delete, issues, workflow_call]
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+    types:
+      - opened
+      - synchronize
+  create: {}
+  delete: {}
+  issues: {}
+  workflow_call:
+    secrets:
+      TELEGRAM_TO:
+        description: 'Telegram ID passed from the caller workflow'
+        required: true
+      TELEGRAM_TOKEN:
+        description: 'Telegram token passed from the caller workflow'
+        required: true
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
