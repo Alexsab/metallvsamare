@@ -18,7 +18,7 @@ jobs:
 
       - name: Get commits
         id: commits
-        uses: actions/checkout@v3
+        uses: actions/checkout@master
         with:
           # checkout full tree
           fetch-depth: 0

@@ -9,8 +9,6 @@ jobs:
   build_and_deploy:
     runs-on: ubuntu-latest
     steps:
-      # Reference the major version of a release
-      - uses: actions/checkout@v3
       # Reference a branch
       - uses: actions/checkout@master
 
@@ -38,4 +36,4 @@ jobs:
           pre_build_commands: ''     # Installing additional dependencies (Arch Linux)
 
       - name: Run Telegram notification again
-        uses: ./github/workflow/github-telegram.yml
+        uses: ./github/workflows/github-telegram.yml
