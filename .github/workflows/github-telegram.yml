@@ -37,21 +37,21 @@ jobs:
         run: |
           LINES_COUNT=$(grep -c ".*" COMMITS_LIST)
           if [ "$LINES_COUNT" == "1" ]; then
-            echo "::set-output name=lines_count::$LINES_COUNT new commit"
+            echo "lines_count=$LINES_COUNT new commit" >> $GITHUB_OUTPUT
           else
-            echo "::set-output name=lines_count::$LINES_COUNT new commits"
+            echo "lines_count=$LINES_COUNT new commits" >> $GITHUB_OUTPUT
           fi
           if [ "${{ github.event.before }}" == "0000000000000000000000000000000000000000" ]; then
-            echo "::set-output name=before::${{ github.sha }}"
+            echo "before=${{ github.sha }}" >> $GITHUB_OUTPUT
           else
-            echo "::set-output name=before::${{ github.event.before }}..${{ github.sha }}"
+            echo "before=${{ github.event.before }}..${{ github.sha }}" >> $GITHUB_OUTPUT
           fi
 
           COMMITS_STRING=$(cat COMMITS_LIST | head -n 5)
           COMMITS_STRING="${COMMITS_STRING//'%'/'%25'}"
           COMMITS_STRING="${COMMITS_STRING//$'\n'/'%0A'}"
           COMMITS_STRING="${COMMITS_STRING//$'\r'/'%0D'}"
-          echo "::set-output name=full_list::$COMMITS_STRING"
+          echo "full_list=$COMMITS_STRING" >> $GITHUB_OUTPUT
 
       - name: Send message to Telegram
         uses: appleboy/telegram-action@master

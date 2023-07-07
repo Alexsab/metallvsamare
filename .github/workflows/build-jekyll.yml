@@ -37,3 +37,6 @@ jobs:
 
   notify_telegram:
     uses: ./.github/workflows/github-telegram.yml
+    secrets:
+      TELEGRAM_TO: ${{ secrets.TELEGRAM_TO }}
+      TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
