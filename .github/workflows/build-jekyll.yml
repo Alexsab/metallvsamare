@@ -36,3 +36,6 @@ jobs:
           cname: 'xn--80aaagne2bafg9bii.xn--p1ai'  # Default is to not use a cname
           actor: ''                  # Default is the GITHUB_ACTOR
           pre_build_commands: ''     # Installing additional dependencies (Arch Linux)
+
+      - name: Run Telegram notification again
+        uses: ./github/workflow/github-telegram.yml
