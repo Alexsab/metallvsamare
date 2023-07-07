@@ -36,6 +36,7 @@ jobs:
           pre_build_commands: ''     # Installing additional dependencies (Arch Linux)
 
   notify_telegram:
+    needs: build_and_deploy
     uses: ./.github/workflows/github-telegram.yml
     secrets:
       TELEGRAM_TO: ${{ secrets.TELEGRAM_TO }}
