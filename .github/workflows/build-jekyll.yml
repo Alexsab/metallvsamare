@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Reference a branch
-      - uses: actions/checkout@master
+      - uses: actions/checkout@v3
         name: Checkout
       # Use GitHub Actions' cache to cache dependencies on servers
       - uses: actions/cache@v3
@@ -36,10 +36,4 @@ jobs:
           pre_build_commands: ''     # Installing additional dependencies (Arch Linux)
 
   notify_telegram:
-    needs: build_and_deploy
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@master
-
-      - uses: ./.github/workflows/github-telegram.yml
+    uses: ./.github/workflows/github-telegram.yml
