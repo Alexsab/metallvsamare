@@ -35,7 +35,5 @@ jobs:
           actor: ''                  # Default is the GITHUB_ACTOR
           pre_build_commands: ''     # Installing additional dependencies (Arch Linux)
 
-      - uses: actions/checkout@master
-        name: Checkout Again
       - name: Run Telegram notification again
         uses: ./.github/workflows/github-telegram
