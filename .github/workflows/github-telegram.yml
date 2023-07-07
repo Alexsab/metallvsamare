@@ -77,8 +77,11 @@ jobs:
           echo "full_list=$COMMITS_STRING" >> $GITHUB_OUTPUT
 
           additional_text="${{ inputs.additional-text || '' }}"
-          additional_text="${{ additional_text && '\\n' + additional_text + '\\n' }}"
-          echo "additional_text=$additional_text" >> $GITHUB_OUTPUT
+          if [ "$additional_text" == "" ]; then
+            echo "additional_text='\\n' + $additional_text + '\\n'" >> $GITHUB_OUTPUT
+          else
+            echo "additional_text=''" >> $GITHUB_OUTPUT
+          fi
 
       - name: Send message to Telegram
         uses: appleboy/telegram-action@master
